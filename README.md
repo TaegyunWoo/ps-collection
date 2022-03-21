@@ -58,6 +58,7 @@
 |[BOJ - 1916](https://www.acmicpc.net/problem/1916)|골드 5|2022-03-18|[소스코드](./BOJ/Q1916.java)|
 |[BOJ - 1167](https://www.acmicpc.net/problem/1167)|골드 3|2022-03-20|[소스코드](./BOJ/Q1167.java)|
 |[BOJ - 1238](https://www.acmicpc.net/problem/1238)|골드 3|2022-03-20|[소스코드](./BOJ/Q1238.java)|
+|[BOJ - 1504](https://www.acmicpc.net/problem/1504)|골드 4|2022-03-21|[소스코드](./BOJ/Q1504.java)|
 
 <br/>
 
