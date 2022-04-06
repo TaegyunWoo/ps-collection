@@ -37,6 +37,7 @@
 |[BOJ - 10026](https://www.acmicpc.net/problem/10026)|골드 5|2022-03-15|[소스코드](./BOJ/Q10026.java)|
 |[BOJ - 3055](https://www.acmicpc.net/problem/3055)|골드 4|2022-03-16|[소스코드](./BOJ/Q3055.java)|
 |[BOJ - 1759](https://www.acmicpc.net/problem/1759)|골드 5|2022-03-18|[소스코드](./BOJ/Q1759.java)|
+|[BOJ - 2206](https://www.acmicpc.net/problem/2206)|골드 4|2022-04-06|[소스코드](./BOJ/Q2206.java)|
 
 <br/>
 
