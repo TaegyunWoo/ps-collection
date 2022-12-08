@@ -39,6 +39,7 @@
 | [BOJ - 1759](https://www.acmicpc.net/problem/1759)   | 골드 5 | 2022-03-18 | [소스코드](./BOJ/Q1759.java)  |
 | [BOJ - 2206](https://www.acmicpc.net/problem/2206)   | 골드 4 | 2022-04-06 | [소스코드](./BOJ/Q2206.java)  |
 | [BOJ - 2606](https://www.acmicpc.net/problem/2606)   | 실버 3 | 2022-12-08 | [소스코드](./BOJ/Q2606.java)  |
+| [BOJ - 1012](https://www.acmicpc.net/problem/1012)   | 실버 1 | 2022-12-08 | [소스코드](./BOJ/Q1012.java)  |
 
 <br/>
 
