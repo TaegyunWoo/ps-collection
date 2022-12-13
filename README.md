@@ -72,7 +72,8 @@
 | [BOJ - 11657](https://www.acmicpc.net/problem/11657) | 골드 4 | 2022-04-01 | [소스코드](./BOJ/Q11657.java) |
 | [BOJ - 1446](https://www.acmicpc.net/problem/1446)   | 실버 1 | 2022-12-12 | [소스코드](./BOJ/Q1446.java)  |
 | [BOJ - 13549](https://www.acmicpc.net/problem/13549) | 골드 5 | 2022-12-12 | [소스코드](./BOJ/Q13549.java)  |
-| [BOJ - 9370](https://www.acmicpc.net/problem/9370) | 골드 2 | 2022-12-12 | [소스코드](./BOJ/Q9370.java)  |
+| [BOJ - 9370](https://www.acmicpc.net/problem/9370) | 골드 2 | 2022-12-13 | [소스코드](./BOJ/Q9370.java)  |
+| [BOJ - 11404](https://www.acmicpc.net/problem/11404) | 골드 4 | 2022-12-13 | [소스코드](./BOJ/Q11404.java)  |
 
 <br/>
 
