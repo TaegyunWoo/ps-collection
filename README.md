@@ -74,6 +74,7 @@
 | [BOJ - 13549](https://www.acmicpc.net/problem/13549) | 골드 5 | 2022-12-12 | [소스코드](./BOJ/Q13549.java)  |
 | [BOJ - 9370](https://www.acmicpc.net/problem/9370) | 골드 2 | 2022-12-13 | [소스코드](./BOJ/Q9370.java)  |
 | [BOJ - 11404](https://www.acmicpc.net/problem/11404) | 골드 4 | 2022-12-13 | [소스코드](./BOJ/Q11404.java)  |
+| [BOJ - 2458](https://www.acmicpc.net/problem/2458) | 골드 4 | 2022-12-13 | [소스코드](./BOJ/Q2458.java)  |
 
 <br/>
 
@@ -102,7 +103,3 @@
 |문제|난이도|풀이날짜|소스코드|
 |----|------|--------|----|
 |[BOJ - 1629](https://www.acmicpc.net/problem/1629)|골드 5|2022-03-14|[소스코드](./BOJ/Q1629.java)|
-
-<br/>
-
-### 최단거리
