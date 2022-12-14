@@ -76,6 +76,7 @@
 | [BOJ - 11404](https://www.acmicpc.net/problem/11404) | 골드 4 | 2022-12-13 | [소스코드](./BOJ/Q11404.java)  |
 | [BOJ - 2458](https://www.acmicpc.net/problem/2458) | 골드 4 | 2022-12-13 | [소스코드](./BOJ/Q2458.java)  |
 | [BOJ - 1956](https://www.acmicpc.net/problem/1956) | 골드 4 | 2022-12-14 | [소스코드](./BOJ/Q1956.java)  |
+| [BOJ - 1865](https://www.acmicpc.net/problem/1865) | 골드 3 | 2022-12-14 | [소스코드](./BOJ/Q1865.java)  |
 
 <br/>
 
