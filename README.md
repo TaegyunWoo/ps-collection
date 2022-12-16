@@ -106,7 +106,8 @@
 <br/>
 
 ### 해시
-| 문제                                                                                  | 난이도     | 풀이날짜       | 소스코드                           |
-|-------------------------------------------------------------------------------------|---------|------------|--------------------------------|
-| [Programmers - 폰켓몬](https://school.programmers.co.kr/learn/courses/30/lessons/1845) | Level 1 | 2022-12-16 | [소스코드](./Programmers/폰켓몬.java) |
-| [Programmers - 위장](https://school.programmers.co.kr/learn/courses/30/lessons/42578) | Level 2 | 2022-12-16 | [소스코드](./Programmers/위장.java)  |
+| 문제                                                                                     | 난이도     | 풀이날짜       | 소스코드                             |
+|----------------------------------------------------------------------------------------|---------|------------|----------------------------------|
+| [Programmers - 폰켓몬](https://school.programmers.co.kr/learn/courses/30/lessons/1845)    | Level 1 | 2022-12-16 | [소스코드](./Programmers/폰켓몬.java)   |
+| [Programmers - 위장](https://school.programmers.co.kr/learn/courses/30/lessons/42578)    | Level 2 | 2022-12-16 | [소스코드](./Programmers/위장.java)    |
+| [Programmers - 베스트앨범](https://school.programmers.co.kr/learn/courses/30/lessons/42579) | Level 3 | 2022-12-16 | [소스코드](./Programmers/베스트앨범.java) |
