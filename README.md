@@ -42,6 +42,7 @@
 | [Programmers - 최소직사각형](https://school.programmers.co.kr/learn/courses/30/lessons/86491)      | Level 1 | 2022-12-18 | [소스코드](./Programmers/최소직사각형.java)    |
 | [Programmers - 피로도](https://school.programmers.co.kr/learn/courses/30/lessons/87946)         | Level 2 | 2022-12-18 | [소스코드](./Programmers/피로도.java)       |
 | [Programmers - 전력망을_둘로_나누기](https://school.programmers.co.kr/learn/courses/30/lessons/86971) | Level 2 | 2022-12-18 | [소스코드](./Programmers/전력망을둘로나누기.java) |
+| [Programmers - 모음사전](https://school.programmers.co.kr/learn/courses/30/lessons/84512)        | Level 2 | 2022-12-20 | [소스코드](./Programmers/모음사전.java)       |
 
 <br/>
 
