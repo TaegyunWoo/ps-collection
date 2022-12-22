@@ -13,13 +13,14 @@
 
 ### 스택,큐,덱
 
-| 문제                                                                                       | 난이도     | 풀이날짜       | 소스코드                               |
-|------------------------------------------------------------------------------------------|---------|------------|------------------------------------|
-| [BOJ - 1918](https://www.acmicpc.net/problem/1918)                                       | 골드 3    | 2022-04-01 | [소스코드](./BOJ/Q1918.java)           |
-| [Programmers - 기능개발](https://school.programmers.co.kr/learn/courses/30/lessons/42586)    | Level 2 | 2022-12-21 | [소스코드](./Programmers/기능개발.java)    |
-| [Programmers - 같은숫자는싫어](https://school.programmers.co.kr/learn/courses/30/lessons/12906) | Level 1 | 2022-12-21 | [소스코드](./Programmers/같은숫자는싫어.java) |
-| [Programmers - 올바른괄호](https://school.programmers.co.kr/learn/courses/30/lessons/12909)   | Level 2 | 2022-12-22 | [소스코드](./Programmers/올바른괄호.java)   |
-| [Programmers - 프린터](https://school.programmers.co.kr/learn/courses/30/lessons/42587)     | Level 2 | 2022-12-22 | [소스코드](./Programmers/프린터.java)     |
+| 문제                                                                                        | 난이도     | 풀이날짜       | 소스코드                                |
+|-------------------------------------------------------------------------------------------|---------|------------|-------------------------------------|
+| [BOJ - 1918](https://www.acmicpc.net/problem/1918)                                        | 골드 3    | 2022-04-01 | [소스코드](./BOJ/Q1918.java)            |
+| [Programmers - 기능개발](https://school.programmers.co.kr/learn/courses/30/lessons/42586)     | Level 2 | 2022-12-21 | [소스코드](./Programmers/기능개발.java)     |
+| [Programmers - 같은숫자는싫어](https://school.programmers.co.kr/learn/courses/30/lessons/12906)  | Level 1 | 2022-12-21 | [소스코드](./Programmers/같은숫자는싫어.java)  |
+| [Programmers - 올바른괄호](https://school.programmers.co.kr/learn/courses/30/lessons/12909)    | Level 2 | 2022-12-22 | [소스코드](./Programmers/올바른괄호.java)    |
+| [Programmers - 프린터](https://school.programmers.co.kr/learn/courses/30/lessons/42587)      | Level 2 | 2022-12-22 | [소스코드](./Programmers/프린터.java)      |
+| [Programmers - 다리를지나는트럭](https://school.programmers.co.kr/learn/courses/30/lessons/42583) | Level 2 | 2022-12-22 | [소스코드](./Programmers/다리를지나는트럭.java) |
 
 <br/>
 
