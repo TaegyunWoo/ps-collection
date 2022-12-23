@@ -21,6 +21,7 @@
 | [Programmers - 올바른괄호](https://school.programmers.co.kr/learn/courses/30/lessons/12909)    | Level 2 | 2022-12-22 | [소스코드](./Programmers/올바른괄호.java)    |
 | [Programmers - 프린터](https://school.programmers.co.kr/learn/courses/30/lessons/42587)      | Level 2 | 2022-12-22 | [소스코드](./Programmers/프린터.java)      |
 | [Programmers - 다리를지나는트럭](https://school.programmers.co.kr/learn/courses/30/lessons/42583) | Level 2 | 2022-12-22 | [소스코드](./Programmers/다리를지나는트럭.java) |
+| [Programmers - 주식가격](https://school.programmers.co.kr/learn/courses/30/lessons/42584)     | Level 2 | 2022-12-23 | [소스코드](./Programmers/주식가격.java)     |
 
 <br/>
 
