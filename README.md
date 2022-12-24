@@ -24,6 +24,7 @@
 | [Programmers - 주식가격](https://school.programmers.co.kr/learn/courses/30/lessons/42584)     | Level 2 | 2022-12-23 | [소스코드](./Programmers/주식가격.java)     |
 | [Programmers - 더맵게](https://school.programmers.co.kr/learn/courses/30/lessons/42626)      | Level 2 | 2022-12-23 | [소스코드](./Programmers/더맵게.java)      |
 | [Programmers - 디스크컨트롤러](https://school.programmers.co.kr/learn/courses/30/lessons/42627)  | Level 3 | 2022-12-24 | [소스코드](./Programmers/디스크컨트롤러.java)  |
+| [Programmers - 이중우선순위큐](https://school.programmers.co.kr/learn/courses/30/lessons/42628)  | Level 3 | 2022-12-24 | [소스코드](./Programmers/이중우선순위큐.java)  |
 
 <br/>
 
