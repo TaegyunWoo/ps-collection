@@ -13,6 +13,7 @@
 | [Programmers - 체육복](https://school.programmers.co.kr/learn/courses/30/lessons/42862)   | Level 1 | 2022-12-24 | [소스코드](./Programmers/체육복.java)   |
 | [Programmers - 조이스틱](https://school.programmers.co.kr/learn/courses/30/lessons/42860)  | Level 2 | 2022-12-26 | [소스코드](./Programmers/조이스틱.java)  |
 | [Programmers - 큰수만들기](https://school.programmers.co.kr/learn/courses/30/lessons/42883) | Level 2 | 2022-12-26 | [소스코드](./Programmers/큰수만들기.java) |
+| [Programmers - 구명보트](https://school.programmers.co.kr/learn/courses/30/lessons/42885)  | Level 2 | 2022-12-26 | [소스코드](./Programmers/구명보트.java)  |
 
 <br/>
 
