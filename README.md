@@ -15,6 +15,7 @@
 | [Programmers - 큰수만들기](https://school.programmers.co.kr/learn/courses/30/lessons/42883) | Level 2 | 2022-12-26 | [소스코드](./Programmers/큰수만들기.java) |
 | [Programmers - 구명보트](https://school.programmers.co.kr/learn/courses/30/lessons/42885)  | Level 2 | 2022-12-26 | [소스코드](./Programmers/구명보트.java)  |
 | [Programmers - 섬연결하기](https://school.programmers.co.kr/learn/courses/30/lessons/42861) | Level 3 | 2022-12-27 | [소스코드](./Programmers/섬연결하기.java) |
+| [Programmers - 단속카메라](https://school.programmers.co.kr/learn/courses/30/lessons/42884) | Level 3 | 2022-12-27 | [소스코드](./Programmers/단속카메라.java) |
 
 <br/>
 
