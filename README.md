@@ -110,6 +110,7 @@
 | [BOJ - 10844](https://www.acmicpc.net/problem/10844) | 실버 1 | 2022-12-10 | [소스코드](./BOJ/Q10844.java) |
 | [BOJ - 2294](https://www.acmicpc.net/problem/2294)   | 골드 5 | 2022-12-10 | [소스코드](./BOJ/Q2294.java) |
 | [BOJ - 1520](https://www.acmicpc.net/problem/1520)   | 골드 3 | 2022-12-12 | [소스코드](./BOJ/Q1520.java) |
+| [Programmers - N으로 표현](https://school.programmers.co.kr/learn/courses/30/lessons/42895)      | Level 3 | 2022-12-27 | [소스코드](./Programmers/N으로표현.java)    |
 
 <br/>
 
