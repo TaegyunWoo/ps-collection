@@ -108,6 +108,7 @@
 | [BOJ - 1865](https://www.acmicpc.net/problem/1865) | 골드 3 | 2022-12-14 | [소스코드](./BOJ/Q1865.java)  |
 | [BOJ - 1261](https://www.acmicpc.net/problem/1261) | 골드 4 | 2022-12-15 | [소스코드](./BOJ/Q1261.java)  |
 | [Programmers - 가장먼노드](https://school.programmers.co.kr/learn/courses/30/lessons/49189)      | Level 3 | 2022-12-30 | [소스코드](./Programmers/가장먼노드.java)    |
+| [Programmers - 순위](https://school.programmers.co.kr/learn/courses/30/lessons/49191)      | Level 3 | 2022-12-30 | [소스코드](./Programmers/순위.java)    |
 
 <br/>
 
