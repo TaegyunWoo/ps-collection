@@ -41,6 +41,7 @@
 | 문제                                                                                    | 난이도     | 풀이날짜       | 소스코드                            |
 |---------------------------------------------------------------------------------------|---------|------------|---------------------------------|
 | [Programmers - 비밀지도](https://school.programmers.co.kr/learn/courses/30/lessons/17681) | Level 1 | 2022-12-31 | [소스코드](./Programmers/비밀지도.java) |
+| [Programmers - 다트게임](https://school.programmers.co.kr/learn/courses/30/lessons/17682) | Level 1 | 2023-01-01 | [소스코드](./Programmers/다트게임.java) |
 
 <br/>
 
