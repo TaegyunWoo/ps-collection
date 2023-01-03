@@ -38,12 +38,13 @@
 
 ### 구현
 
-| 문제                                                                                      | 난이도     | 풀이날짜       | 소스코드                              |
-|-----------------------------------------------------------------------------------------|---------|------------|-----------------------------------|
-| [Programmers - 비밀지도](https://school.programmers.co.kr/learn/courses/30/lessons/17681)   | Level 1 | 2022-12-31 | [소스코드](./Programmers/비밀지도.java)   |
-| [Programmers - 다트게임](https://school.programmers.co.kr/learn/courses/30/lessons/17682)   | Level 1 | 2023-01-01 | [소스코드](./Programmers/다트게임.java)   |
-| [Programmers - 캐시](https://school.programmers.co.kr/learn/courses/30/lessons/17680)     | Level 2 | 2023-01-01 | [소스코드](./Programmers/캐시.java)     |
-| [Programmers - 프렌즈4블록](https://school.programmers.co.kr/learn/courses/30/lessons/17679) | Level 2 | 2023-01-01 | [소스코드](./Programmers/프렌즈4블록.java) |
+| 문제                                                                                       | 난이도     | 풀이날짜       | 소스코드                               |
+|------------------------------------------------------------------------------------------|---------|------------|------------------------------------|
+| [Programmers - 비밀지도](https://school.programmers.co.kr/learn/courses/30/lessons/17681)    | Level 1 | 2022-12-31 | [소스코드](./Programmers/비밀지도.java)    |
+| [Programmers - 다트게임](https://school.programmers.co.kr/learn/courses/30/lessons/17682)    | Level 1 | 2023-01-01 | [소스코드](./Programmers/다트게임.java)    |
+| [Programmers - 캐시](https://school.programmers.co.kr/learn/courses/30/lessons/17680)      | Level 2 | 2023-01-01 | [소스코드](./Programmers/캐시.java)      |
+| [Programmers - 프렌즈4블록](https://school.programmers.co.kr/learn/courses/30/lessons/17679)  | Level 2 | 2023-01-03 | [소스코드](./Programmers/프렌즈4블록.java)  |
+| [Programmers - 뉴스클러스터링](https://school.programmers.co.kr/learn/courses/30/lessons/17677) | Level 2 | 2023-01-03 | [소스코드](./Programmers/뉴스클러스터링.java) |
 
 <br/>
 
