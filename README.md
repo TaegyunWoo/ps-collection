@@ -47,6 +47,7 @@
 | [Programmers - 뉴스클러스터링](https://school.programmers.co.kr/learn/courses/30/lessons/17677) | Level 2 | 2023-01-03 | [소스코드](./Programmers/뉴스클러스터링.java) |
 | [Programmers - 방금그곡](https://school.programmers.co.kr/learn/courses/30/lessons/17683)    | Level 2 | 2023-01-05 | [소스코드](./Programmers/방금그곡.java)    |
 | [Programmers - 압축](https://school.programmers.co.kr/learn/courses/30/lessons/17684)      | Level 2 | 2023-01-05 | [소스코드](./Programmers/압축.java)      |
+| [Programmers - N진수게임](https://school.programmers.co.kr/learn/courses/30/lessons/17687)   | Level 2 | 2023-01-07 | [소스코드](./Programmers/N진수게임.java)   |
 
 <br/>
 
