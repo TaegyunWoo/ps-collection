@@ -89,10 +89,11 @@
 
 ### 이진탐색
 
-| 문제                                                                               | 난이도     | 풀이날짜       | 소스코드                            |
-|----------------------------------------------------------------------------------|---------|------------|---------------------------------|
+| 문제                                                                                    | 난이도     | 풀이날짜       | 소스코드                            |
+|---------------------------------------------------------------------------------------|---------|------------|---------------------------------|
 | [Programmers - 입국심사](https://school.programmers.co.kr/learn/courses/30/lessons/43238) | Level 3 | 2022-12-29 | [소스코드](./Programmers/입국심사.java) |
 | [Programmers - 징검다리](https://school.programmers.co.kr/learn/courses/30/lessons/43236) | Level 4 | 2022-12-29 | [소스코드](./Programmers/징검다리.java) |
+| [Programmers - 셔틀버스](https://school.programmers.co.kr/learn/courses/30/lessons/17678) | Level 3 | 2023-01-08 | [소스코드](./Programmers/셔틀버스.java) |
 
 <br/>
 
