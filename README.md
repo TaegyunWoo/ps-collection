@@ -8,12 +8,12 @@
 
 ## 문제집
 ### 그리디
-| 문제                                                                                     | 난이도     | 풀이날짜       | 소스코드                             |
-|----------------------------------------------------------------------------------------|---------|------------|----------------------------------|
-| [Programmers - 체육복](https://school.programmers.co.kr/learn/courses/30/lessons/42862)   | Level 1 | 2022-12-24 | [소스코드](./Programmers/체육복.java)   |
-| [Programmers - 조이스틱](https://school.programmers.co.kr/learn/courses/30/lessons/42860)  | Level 2 | 2022-12-26 | [소스코드](./Programmers/조이스틱.java)  |
+| 문제                                                                                     | 난이도     | 풀이날짜       | 소스코드                            |
+|----------------------------------------------------------------------------------------|---------|------------|---------------------------------|
+| [Programmers - 체육복](https://school.programmers.co.kr/learn/courses/30/lessons/42862)   | Level 1 | 2022-12-24 | [소스코드](./Programmers/체육복.java)  |
+| [Programmers - 조이스틱](https://school.programmers.co.kr/learn/courses/30/lessons/42860)  | Level 2 | 2022-12-26 | [소스코드](./Programmers/조이스틱.java) |
 | [Programmers - 큰수만들기](https://school.programmers.co.kr/learn/courses/30/lessons/42883) | Level 2 | 2022-12-26 | [소스코드](./Programmers/큰수만들기.java) |
-| [Programmers - 구명보트](https://school.programmers.co.kr/learn/courses/30/lessons/42885)  | Level 2 | 2022-12-26 | [소스코드](./Programmers/구명보트.java)  |
+| [Programmers - 구명보트](https://school.programmers.co.kr/learn/courses/30/lessons/42885)  | Level 2 | 2022-12-26 | [소스코드](./Programmers/구명보트.java) |
 | [Programmers - 섬연결하기](https://school.programmers.co.kr/learn/courses/30/lessons/42861) | Level 3 | 2022-12-27 | [소스코드](./Programmers/섬연결하기.java) |
 | [Programmers - 단속카메라](https://school.programmers.co.kr/learn/courses/30/lessons/42884) | Level 3 | 2022-12-27 | [소스코드](./Programmers/단속카메라.java) |
 | [Programmers - 추석트래픽](https://school.programmers.co.kr/learn/courses/30/lessons/17676) | Level 3 | 2023-01-10 | [소스코드](./Programmers/추석트래픽.java) |
@@ -51,6 +51,7 @@
 | [Programmers - N진수게임](https://school.programmers.co.kr/learn/courses/30/lessons/17687)  | Level 2 | 2023-01-07 | [소스코드](./Programmers/N진수게임.java)   |
 | [Programmers - 파일명정렬](https://school.programmers.co.kr/learn/courses/30/lessons/17686)  | Level 2 | 2023-01-07 | [소스코드](./Programmers/파일명정렬.java)   |
 | [Programmers - 실패율](https://school.programmers.co.kr/learn/courses/30/lessons/42889)    | Level 2 | 2023-01-07 | [소스코드](./Programmers/파일명정렬.java)   |
+| [Programmers - 오픈채팅방](https://school.programmers.co.kr/learn/courses/30/lessons/42888)  | Level 1 | 2023-01-10 | [소스코드](./Programmers/오픈채팅방.java)   |
 
 <br/>
 
