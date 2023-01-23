@@ -83,7 +83,8 @@
 | [Programmers - 게임맵_최단거리](https://school.programmers.co.kr/learn/courses/30/lessons/1844)     | Level 2 | 2022-12-20 | [소스코드](./Programmers/게임맵최단거리.java)   |
 | [Programmers - 여행경로](https://school.programmers.co.kr/learn/courses/30/lessons/43164)        | Level 3 | 2022-12-20 | [소스코드](./Programmers/여행경로.java)      |
 | [Programmers - 아이템줍기](https://school.programmers.co.kr/learn/courses/30/lessons/87694)       | Level 3 | 2022-12-21 | [소스코드](./Programmers/아이템줍기.java)     |
-| [Programmers - 이모티콘 할인 행사](https://school.programmers.co.kr/learn/courses/30/lessons/150368)  | Level 2 | 2023-01-23 | [소스코드](./Programmers/이모티콘할인행사.java)  |
+| [Programmers - 이모티콘 할인 행사](https://school.programmers.co.kr/learn/courses/30/lessons/150368) | Level 2 | 2023-01-23 | [소스코드](./Programmers/이모티콘할인행사.java)  |
+| [Programmers - 다음 큰 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12911)    | Level 2 | 2023-01-23 | [소스코드](./Programmers/다음큰숫자.java)     |
 
 <br/>
 
