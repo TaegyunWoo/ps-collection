@@ -19,7 +19,8 @@
 | [Programmers - 추석트래픽](https://school.programmers.co.kr/learn/courses/30/lessons/17676)        | Level 3 | 2023-01-10 | [소스코드](./Programmers/추석트래픽.java)     |
 | [Programmers - 자동완성](https://school.programmers.co.kr/learn/courses/30/lessons/17685)         | Level 4 | 2023-01-10 | [소스코드](./Programmers/자동완성.java)      |
 | [Programmers - 택배 배달과 수거하기](https://school.programmers.co.kr/learn/courses/30/lessons/150369) | Level 2 | 2023-01-18 | [소스코드](./Programmers/택배배달과수거하기.java) |
-| [Programmers - 롤케이크 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/132265)    | Level 2 | 2023-01-22  | [소스코드](./Programmers/롤케이크자르기.java)   |
+| [Programmers - 롤케이크 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/132265)    | Level 2 | 2023-01-22 | [소스코드](./Programmers/롤케이크자르기.java)   |
+| [Programmers - 표현 가능한 이진트리](https://school.programmers.co.kr/learn/courses/30/lessons/150367) | Level 3 | 2023-01-24 | [소스코드](./Programmers/표현가능한이진트리.java) |
 
 <br/>
 
