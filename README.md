@@ -189,3 +189,10 @@
 | [Programmers - K번째수](https://school.programmers.co.kr/learn/courses/30/lessons/42748)    | Level 1 | 2022-12-17 | [소스코드](./Programmers/K번째수.java)    |
 | [Programmers - 가장 큰 수](https://school.programmers.co.kr/learn/courses/30/lessons/42746)  | Level 2 | 2022-12-17 | [소스코드](./Programmers/가장큰수.java)    |
 | [Programmers - H-Index](https://school.programmers.co.kr/learn/courses/30/lessons/42747) | Level 2 | 2022-12-17 | [소스코드](./Programmers/H-Index.java) |
+
+<br/>
+
+### Union-Find
+| 문제                                                                                    | 난이도     | 풀이날짜       | 소스코드                           |
+|---------------------------------------------------------------------------------------|---------|------------|--------------------------------|
+| [Programmers - 표 병합](https://school.programmers.co.kr/learn/courses/30/lessons/150366) | Level 3 | 2023-01-26 | [소스코드](./Programmers/표병합.java) |
