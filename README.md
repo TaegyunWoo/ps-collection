@@ -134,6 +134,7 @@
 | [BOJ - 1261](https://www.acmicpc.net/problem/1261) | 골드 4 | 2022-12-15 | [소스코드](./BOJ/Q1261.java)  |
 | [Programmers - 가장먼노드](https://school.programmers.co.kr/learn/courses/30/lessons/49189)      | Level 3 | 2022-12-30 | [소스코드](./Programmers/가장먼노드.java)    |
 | [Programmers - 순위](https://school.programmers.co.kr/learn/courses/30/lessons/49191)      | Level 3 | 2022-12-30 | [소스코드](./Programmers/순위.java)    |
+| [Programmers - 등산코스 정하기](https://school.programmers.co.kr/learn/courses/30/lessons/118669)      | Level 3 | 2023-01-29 | [소스코드](./Programmers/등산코스정하기.java)    |
 
 <br/>
 
