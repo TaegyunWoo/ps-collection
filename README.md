@@ -88,7 +88,8 @@
 | [Programmers - 아이템줍기](https://school.programmers.co.kr/learn/courses/30/lessons/87694)       | Level 3 | 2022-12-21 | [소스코드](./Programmers/아이템줍기.java)     |
 | [Programmers - 이모티콘 할인 행사](https://school.programmers.co.kr/learn/courses/30/lessons/150368) | Level 2 | 2023-01-23 | [소스코드](./Programmers/이모티콘할인행사.java)  |
 | [Programmers - 다음 큰 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12911)     | Level 2 | 2023-01-23 | [소스코드](./Programmers/다음큰숫자.java)     |
-| [Programmers - 미로 탈출 명령어](https://school.programmers.co.kr/learn/courses/30/lessons/150365)   | Level 3 | 2023-01-27 | [소스코드](./Programmers/미로탈출명령어.java)   |
+| [Programmers - 미로 탈출 명령어](https://school.programmers.co.kr/learn/courses/30/lessons/150365)  | Level 3 | 2023-01-27 | [소스코드](./Programmers/미로탈출명령어.java)   |
+| [Programmers - 양궁대회](https://school.programmers.co.kr/learn/courses/30/lessons/92342)       | Level 2 | 2023-02-11 | [소스코드](./Programmers/양궁대회.java)      |
 
 <br/>
 
