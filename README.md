@@ -60,6 +60,7 @@
 | [Programmers - 후보키](https://school.programmers.co.kr/learn/courses/30/lessons/42890)           | Level 2 | 2023-01-12 | [소스코드](./Programmers/후보키.java)        |
 | [Programmers - 개인정보 수집 유효기간](https://school.programmers.co.kr/learn/courses/30/lessons/150370) | Level 1 | 2023-01-18 | [소스코드](./Programmers/개인정보수집유효기간.java) |
 | [Programmers - 성격 유형 검사하기](https://school.programmers.co.kr/learn/courses/30/lessons/118666)   | Level 1 | 2023-02-01 | [소스코드](./Programmers/성격유형검사하기.java)   |
+| [Programmers - 주차 요금 계산](https://school.programmers.co.kr/learn/courses/30/lessons/92341)     | Level 2 | 2023-02-17 | [소스코드](./Programmers/주차요금계산.java)     |
 
 <br/>
 
