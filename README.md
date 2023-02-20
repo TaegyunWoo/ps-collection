@@ -63,6 +63,7 @@
 | [Programmers - 주차 요금 계산](https://school.programmers.co.kr/learn/courses/30/lessons/92341)        | Level 2 | 2023-02-17 | [소스코드](./Programmers/주차요금계산.java)       |
 | [Programmers - k진수에서 소수 개수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/92335) | Level 2 | 2023-02-18 | [소스코드](./Programmers/k진수에서소수개수구하기.java) |
 | [Programmers - 신고 결과 받기](https://school.programmers.co.kr/learn/courses/30/lessons/92334)        | Level 1 | 2023-02-19 | [소스코드](./Programmers/신고결과받기.java)       |
+| [Programmers - 표 편집](https://school.programmers.co.kr/learn/courses/30/lessons/81303)            | Level 3 | 2023-02-20 | [소스코드](./Programmers/표편집.java)          |
 
 <br/>
 
