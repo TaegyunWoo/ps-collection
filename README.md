@@ -65,6 +65,7 @@
 | [Programmers - 신고 결과 받기](https://school.programmers.co.kr/learn/courses/30/lessons/92334)        | Level 1 | 2023-02-19 | [소스코드](./Programmers/신고결과받기.java)       |
 | [Programmers - 표 편집](https://school.programmers.co.kr/learn/courses/30/lessons/81303)            | Level 3 | 2023-02-20 | [소스코드](./Programmers/표편집.java)          |
 | [Programmers - 거리두기 확인하기](https://school.programmers.co.kr/learn/courses/30/lessons/81302)       | Level 2 | 2023-02-21 | [소스코드](./Programmers/거리두기확인하기.java)     |
+| [Programmers - 숫자 문자열과 영단어](https://school.programmers.co.kr/learn/courses/30/lessons/81301)     | Level 1 | 2023-02-25 | [소스코드](./Programmers/숫자문자열과영단어.java)    |
 
 <br/>
 
