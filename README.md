@@ -69,6 +69,7 @@
 | [Programmers - 거리두기 확인하기](https://school.programmers.co.kr/learn/courses/30/lessons/81302)       | Level 2 | 2023-02-21 | [소스코드](./Programmers/거리두기확인하기.java)     |
 | [Programmers - 숫자 문자열과 영단어](https://school.programmers.co.kr/learn/courses/30/lessons/81301)     | Level 1 | 2023-02-25 | [소스코드](./Programmers/숫자문자열과영단어.java)    |
 | [Programmers - 신규 아이디 추천](https://school.programmers.co.kr/learn/courses/30/lessons/72410)       | Level 1 | 2023-03-10 | [소스코드](./Programmers/신규아이디추천.java)      |
+| [Programmers - 메뉴 리뉴얼](https://school.programmers.co.kr/learn/courses/30/lessons/72411)          | Level 2 | 2023-03-11 | [소스코드](./Programmers/메뉴리뉴얼.java)        |
 
 <br/>
 
