@@ -70,7 +70,8 @@
 | [Programmers - 숫자 문자열과 영단어](https://school.programmers.co.kr/learn/courses/30/lessons/81301)    | Level 1 | 2023-02-25 | [소스코드](./Programmers/숫자문자열과영단어.java)    |
 | [Programmers - 신규 아이디 추천](https://school.programmers.co.kr/learn/courses/30/lessons/72410)      | Level 1 | 2023-03-10 | [소스코드](./Programmers/신규아이디추천.java)      |
 | [Programmers - 메뉴 리뉴얼](https://school.programmers.co.kr/learn/courses/30/lessons/72411)         | Level 2 | 2023-03-11 | [소스코드](./Programmers/메뉴리뉴얼.java)        |
-| [BOJ - 17406](https://www.acmicpc.net/problem/17406)                                        | 골드 4    | 2023-03-13 | [소스코드](./BOJ/Q17406.java)            |
+| [BOJ - 17406](https://www.acmicpc.net/problem/17406)                                        | 골드 4    | 2023-03-13 | [소스코드](./BOJ/Q17406.java)               |
+| [BOJ - 11723](https://www.acmicpc.net/problem/11723)                                        | 실버 5    | 2023-03-16 | [소스코드](./BOJ/Q11723.java)                    |
 
 <br/>
 
