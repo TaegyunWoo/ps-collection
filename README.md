@@ -74,6 +74,7 @@
 | [BOJ - 11723](https://www.acmicpc.net/problem/11723)                                       | 실버 5    | 2023-03-16 | [소스코드](./BOJ/Q11723.java)               |
 | [BOJ - 10431](https://www.acmicpc.net/problem/10431)                                       | 실버 5    | 2023-03-16 | [소스코드](./BOJ/Q10431.java)               |
 | [BOJ - 8979](https://www.acmicpc.net/problem/8979)                                        | 실버 5    | 2023-03-19 | [소스코드](./BOJ/Q8979.java)                    |
+| [BOJ - 4659](https://www.acmicpc.net/problem/4659)                                        | 실버 5    | 2023-03-19 | [소스코드](./BOJ/Q4659.java)                    |
 
 <br/>
 
