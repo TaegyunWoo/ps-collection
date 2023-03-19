@@ -46,33 +46,34 @@
 
 ### 구현
 
-| 문제                                                                                              | 난이도     | 풀이날짜       | 소스코드                                    |
-|-------------------------------------------------------------------------------------------------|---------|------------|-----------------------------------------|
-| [Programmers - 비밀지도](https://school.programmers.co.kr/learn/courses/30/lessons/17681)           | Level 1 | 2022-12-31 | [소스코드](./Programmers/비밀지도.java)         |
-| [Programmers - 다트게임](https://school.programmers.co.kr/learn/courses/30/lessons/17682)           | Level 1 | 2023-01-01 | [소스코드](./Programmers/다트게임.java)         |
-| [Programmers - 캐시](https://school.programmers.co.kr/learn/courses/30/lessons/17680)             | Level 2 | 2023-01-01 | [소스코드](./Programmers/캐시.java)           |
-| [Programmers - 프렌즈4블록](https://school.programmers.co.kr/learn/courses/30/lessons/17679)         | Level 2 | 2023-01-03 | [소스코드](./Programmers/프렌즈4블록.java)       |
-| [Programmers - 뉴스클러스터링](https://school.programmers.co.kr/learn/courses/30/lessons/17677)        | Level 2 | 2023-01-03 | [소스코드](./Programmers/뉴스클러스터링.java)      |
-| [Programmers - 방금그곡](https://school.programmers.co.kr/learn/courses/30/lessons/17683)           | Level 2 | 2023-01-05 | [소스코드](./Programmers/방금그곡.java)         |
-| [Programmers - 압축](https://school.programmers.co.kr/learn/courses/30/lessons/17684)             | Level 2 | 2023-01-05 | [소스코드](./Programmers/압축.java)           |
-| [Programmers - N진수게임](https://school.programmers.co.kr/learn/courses/30/lessons/17687)          | Level 2 | 2023-01-07 | [소스코드](./Programmers/N진수게임.java)        |
-| [Programmers - 파일명정렬](https://school.programmers.co.kr/learn/courses/30/lessons/17686)          | Level 2 | 2023-01-07 | [소스코드](./Programmers/파일명정렬.java)        |
-| [Programmers - 실패율](https://school.programmers.co.kr/learn/courses/30/lessons/42889)            | Level 2 | 2023-01-07 | [소스코드](./Programmers/실패율.java)          |
-| [Programmers - 오픈채팅방](https://school.programmers.co.kr/learn/courses/30/lessons/42888)          | Level 1 | 2023-01-10 | [소스코드](./Programmers/오픈채팅방.java)        |
-| [Programmers - 후보키](https://school.programmers.co.kr/learn/courses/30/lessons/42890)            | Level 2 | 2023-01-12 | [소스코드](./Programmers/후보키.java)          |
-| [Programmers - 개인정보 수집 유효기간](https://school.programmers.co.kr/learn/courses/30/lessons/150370)  | Level 1 | 2023-01-18 | [소스코드](./Programmers/개인정보수집유효기간.java)   |
-| [Programmers - 성격 유형 검사하기](https://school.programmers.co.kr/learn/courses/30/lessons/118666)    | Level 1 | 2023-02-01 | [소스코드](./Programmers/성격유형검사하기.java)     |
-| [Programmers - 주차 요금 계산](https://school.programmers.co.kr/learn/courses/30/lessons/92341)       | Level 2 | 2023-02-17 | [소스코드](./Programmers/주차요금계산.java)       |
+| 문제                                                                                             | 난이도     | 풀이날짜       | 소스코드                                    |
+|------------------------------------------------------------------------------------------------|---------|------------|-----------------------------------------|
+| [Programmers - 비밀지도](https://school.programmers.co.kr/learn/courses/30/lessons/17681)          | Level 1 | 2022-12-31 | [소스코드](./Programmers/비밀지도.java)         |
+| [Programmers - 다트게임](https://school.programmers.co.kr/learn/courses/30/lessons/17682)          | Level 1 | 2023-01-01 | [소스코드](./Programmers/다트게임.java)         |
+| [Programmers - 캐시](https://school.programmers.co.kr/learn/courses/30/lessons/17680)            | Level 2 | 2023-01-01 | [소스코드](./Programmers/캐시.java)           |
+| [Programmers - 프렌즈4블록](https://school.programmers.co.kr/learn/courses/30/lessons/17679)        | Level 2 | 2023-01-03 | [소스코드](./Programmers/프렌즈4블록.java)       |
+| [Programmers - 뉴스클러스터링](https://school.programmers.co.kr/learn/courses/30/lessons/17677)       | Level 2 | 2023-01-03 | [소스코드](./Programmers/뉴스클러스터링.java)      |
+| [Programmers - 방금그곡](https://school.programmers.co.kr/learn/courses/30/lessons/17683)          | Level 2 | 2023-01-05 | [소스코드](./Programmers/방금그곡.java)         |
+| [Programmers - 압축](https://school.programmers.co.kr/learn/courses/30/lessons/17684)            | Level 2 | 2023-01-05 | [소스코드](./Programmers/압축.java)           |
+| [Programmers - N진수게임](https://school.programmers.co.kr/learn/courses/30/lessons/17687)         | Level 2 | 2023-01-07 | [소스코드](./Programmers/N진수게임.java)        |
+| [Programmers - 파일명정렬](https://school.programmers.co.kr/learn/courses/30/lessons/17686)         | Level 2 | 2023-01-07 | [소스코드](./Programmers/파일명정렬.java)        |
+| [Programmers - 실패율](https://school.programmers.co.kr/learn/courses/30/lessons/42889)           | Level 2 | 2023-01-07 | [소스코드](./Programmers/실패율.java)          |
+| [Programmers - 오픈채팅방](https://school.programmers.co.kr/learn/courses/30/lessons/42888)         | Level 1 | 2023-01-10 | [소스코드](./Programmers/오픈채팅방.java)        |
+| [Programmers - 후보키](https://school.programmers.co.kr/learn/courses/30/lessons/42890)           | Level 2 | 2023-01-12 | [소스코드](./Programmers/후보키.java)          |
+| [Programmers - 개인정보 수집 유효기간](https://school.programmers.co.kr/learn/courses/30/lessons/150370) | Level 1 | 2023-01-18 | [소스코드](./Programmers/개인정보수집유효기간.java)   |
+| [Programmers - 성격 유형 검사하기](https://school.programmers.co.kr/learn/courses/30/lessons/118666)   | Level 1 | 2023-02-01 | [소스코드](./Programmers/성격유형검사하기.java)     |
+| [Programmers - 주차 요금 계산](https://school.programmers.co.kr/learn/courses/30/lessons/92341)      | Level 2 | 2023-02-17 | [소스코드](./Programmers/주차요금계산.java)       |
 | [Programmers - k진수에서 소수 개수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/92335) | Level 2 | 2023-02-18 | [소스코드](./Programmers/k진수에서소수개수구하기.java) |
-| [Programmers - 신고 결과 받기](https://school.programmers.co.kr/learn/courses/30/lessons/92334)       | Level 1 | 2023-02-19 | [소스코드](./Programmers/신고결과받기.java)       |
-| [Programmers - 표 편집](https://school.programmers.co.kr/learn/courses/30/lessons/81303)           | Level 3 | 2023-02-20 | [소스코드](./Programmers/표편집.java)          |
-| [Programmers - 거리두기 확인하기](https://school.programmers.co.kr/learn/courses/30/lessons/81302)      | Level 2 | 2023-02-21 | [소스코드](./Programmers/거리두기확인하기.java)     |
-| [Programmers - 숫자 문자열과 영단어](https://school.programmers.co.kr/learn/courses/30/lessons/81301)    | Level 1 | 2023-02-25 | [소스코드](./Programmers/숫자문자열과영단어.java)    |
-| [Programmers - 신규 아이디 추천](https://school.programmers.co.kr/learn/courses/30/lessons/72410)      | Level 1 | 2023-03-10 | [소스코드](./Programmers/신규아이디추천.java)      |
-| [Programmers - 메뉴 리뉴얼](https://school.programmers.co.kr/learn/courses/30/lessons/72411)         | Level 2 | 2023-03-11 | [소스코드](./Programmers/메뉴리뉴얼.java)        |
-| [BOJ - 17406](https://www.acmicpc.net/problem/17406)                                        | 골드 4    | 2023-03-13 | [소스코드](./BOJ/Q17406.java)               |
-| [BOJ - 11723](https://www.acmicpc.net/problem/11723)                                        | 실버 5    | 2023-03-16 | [소스코드](./BOJ/Q11723.java)               |
-| [BOJ - 10431](https://www.acmicpc.net/problem/10431)                                        | 실버 5    | 2023-03-16 | [소스코드](./BOJ/Q10431.java)                    |
+| [Programmers - 신고 결과 받기](https://school.programmers.co.kr/learn/courses/30/lessons/92334)      | Level 1 | 2023-02-19 | [소스코드](./Programmers/신고결과받기.java)       |
+| [Programmers - 표 편집](https://school.programmers.co.kr/learn/courses/30/lessons/81303)          | Level 3 | 2023-02-20 | [소스코드](./Programmers/표편집.java)          |
+| [Programmers - 거리두기 확인하기](https://school.programmers.co.kr/learn/courses/30/lessons/81302)     | Level 2 | 2023-02-21 | [소스코드](./Programmers/거리두기확인하기.java)     |
+| [Programmers - 숫자 문자열과 영단어](https://school.programmers.co.kr/learn/courses/30/lessons/81301)   | Level 1 | 2023-02-25 | [소스코드](./Programmers/숫자문자열과영단어.java)    |
+| [Programmers - 신규 아이디 추천](https://school.programmers.co.kr/learn/courses/30/lessons/72410)     | Level 1 | 2023-03-10 | [소스코드](./Programmers/신규아이디추천.java)      |
+| [Programmers - 메뉴 리뉴얼](https://school.programmers.co.kr/learn/courses/30/lessons/72411)        | Level 2 | 2023-03-11 | [소스코드](./Programmers/메뉴리뉴얼.java)        |
+| [BOJ - 17406](https://www.acmicpc.net/problem/17406)                                       | 골드 4    | 2023-03-13 | [소스코드](./BOJ/Q17406.java)               |
+| [BOJ - 11723](https://www.acmicpc.net/problem/11723)                                       | 실버 5    | 2023-03-16 | [소스코드](./BOJ/Q11723.java)               |
+| [BOJ - 10431](https://www.acmicpc.net/problem/10431)                                       | 실버 5    | 2023-03-16 | [소스코드](./BOJ/Q10431.java)               |
+| [BOJ - 8979](https://www.acmicpc.net/problem/8979)                                        | 실버 5    | 2023-03-19 | [소스코드](./BOJ/Q8979.java)                    |
 
 <br/>
 
