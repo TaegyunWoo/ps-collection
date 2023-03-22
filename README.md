@@ -82,6 +82,7 @@
 | [BOJ - 1244](https://www.acmicpc.net/problem/1244)                                               | Silver 4 | 2023-03-21 | [소스코드](./BOJ/Q1244.java)                |
 | [BOJ - 9017](https://www.acmicpc.net/problem/9017)                                               | Silver 4 | 2023-03-21 | [소스코드](./BOJ/Q9017.java)                |
 | [BOJ - 2164](https://www.acmicpc.net/problem/2164)                                               | Silver 4 | 2023-03-21 | [소스코드](./BOJ/Q2164.java)                |
+| [BOJ - 20920](https://www.acmicpc.net/problem/20920)                                               | Silver 3 | 2023-03-22 | [소스코드](./BOJ/Q20920.java)                |
 
 <br/>
 
