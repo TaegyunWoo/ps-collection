@@ -23,6 +23,7 @@
 | [Programmers - 표현 가능한 이진트리](https://school.programmers.co.kr/learn/courses/30/lessons/150367)  | Level 3 | 2023-01-24 | [소스코드](./Programmers/표현가능한이진트리.java) |
 | [Programmers - 두 큐 합 같게 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/118667) | Level 2 | 2023-01-31 | [소스코드](./Programmers/두큐합같게만들기.java)  |
 | [Programmers - 인사고과](https://school.programmers.co.kr/learn/courses/30/lessons/152995)         | Level 3 | 2023-03-01 | [소스코드](./Programmers/인사고과.java)      |
+| [BOJ - 13305](https://www.acmicpc.net/problem/13305)                                           | 실버 3    | 2023-03-22 | [소스코드](./BOJ/Q13305.java)                 |
 
 <br/>
 
