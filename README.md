@@ -24,6 +24,7 @@
 | [Programmers - 두 큐 합 같게 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/118667) | Level 2  | 2023-01-31 | [소스코드](./Programmers/두큐합같게만들기.java)  |
 | [Programmers - 인사고과](https://school.programmers.co.kr/learn/courses/30/lessons/152995)         | Level 3  | 2023-03-01 | [소스코드](./Programmers/인사고과.java)      |
 | [BOJ - 13305](https://www.acmicpc.net/problem/13305)                                           | Silver 3 | 2023-03-22 | [소스코드](./BOJ/Q13305.java)                 |
+| [BOJ - 1515](https://www.acmicpc.net/problem/1515)                                           | Silver 3 | 2023-03-22 | [소스코드](./BOJ/Q1515.java)                 |
 
 <br/>
 
