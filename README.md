@@ -133,6 +133,7 @@
 
 | 문제                                                                                     | 난이도      | 풀이날짜       | 소스코드                            |
 |----------------------------------------------------------------------------------------|----------|------------|---------------------------------|
+|[BOJ - 2110](https://www.acmicpc.net/problem/2110)| Gold 5 |2022-03-14|[소스코드](./BOJ/Q2110.java)|
 | [Programmers - 입국심사](https://school.programmers.co.kr/learn/courses/30/lessons/43238)  | Level 3  | 2022-12-29 | [소스코드](./Programmers/입국심사.java) |
 | [Programmers - 징검다리](https://school.programmers.co.kr/learn/courses/30/lessons/43236)  | Level 4  | 2022-12-29 | [소스코드](./Programmers/징검다리.java) |
 | [Programmers - 셔틀버스](https://school.programmers.co.kr/learn/courses/30/lessons/17678)  | Level 3  | 2023-01-08 | [소스코드](./Programmers/셔틀버스.java) |
@@ -192,14 +193,6 @@
 | [BOJ - 27210](https://www.acmicpc.net/problem/27210)   | Gold 4 | 2023-01-15 | [소스코드](./BOJ/Q27210.java) |
 | [Programmers - 코딩 테스트 공부](https://school.programmers.co.kr/learn/courses/30/lessons/118668)      | Level 3 | 2023-01-30 | [소스코드](./Programmers/코딩테스트공부.java)    |
 | [BOJ - 2616](https://www.acmicpc.net/problem/2616)   | Gold 3 | 2023-03-07 | [소스코드](./BOJ/Q2616.java) |
-
-<br/>
-
-### Binary Search
-
-|문제| 난이도    |풀이날짜|소스코드|
-|----|--------|--------|----|
-|[BOJ - 2110](https://www.acmicpc.net/problem/2110)| Gold 5 |2022-03-14|[소스코드](./BOJ/Q2110.java)|
 
 <br/>
 
