@@ -117,6 +117,7 @@
 | [Programmers - 양궁대회](https://school.programmers.co.kr/learn/courses/30/lessons/92342)        | Level 2  | 2023-02-11 | [소스코드](./Programmers/양궁대회.java)      |
 | [Programmers - 양과 늑대](https://school.programmers.co.kr/learn/courses/30/lessons/92343)       | Level 3  | 2023-02-12 | [소스코드](./Programmers/양과늑대.java)      |
 | [BOJ - 17471](https://www.acmicpc.net/problem/17471)                                         | Gold 4   | 2023-03-14 | [소스코드](./BOJ/Q17471.java)            |
+| [BOJ - 17484](https://www.acmicpc.net/problem/17484)                                         | Silver 3 | 2023-03-27 | [소스코드](./BOJ/Q17484.java)                 |
 
 <br/>
 
