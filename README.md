@@ -26,6 +26,7 @@
 | [BOJ - 13305](https://www.acmicpc.net/problem/13305)                                          | Silver 3 | 2023-03-22 | [소스코드](./BOJ/Q13305.java)                 |
 | [BOJ - 1515](https://www.acmicpc.net/problem/1515)                                           | Silver 3 | 2023-03-22 | [소스코드](./BOJ/Q1515.java)                 |
 | [BOJ - 19941](https://www.acmicpc.net/problem/19941)                                           | Silver 3 | 2023-03-25 | [소스코드](./BOJ/Q19941.java)                 |
+| [BOJ - 20310](https://www.acmicpc.net/problem/20310)                                           | Silver 3 | 2023-03-28 | [소스코드](./BOJ/Q20310.java)                 |
 
 <br/>
 
