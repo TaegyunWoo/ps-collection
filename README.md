@@ -93,6 +93,7 @@
 | [BOJ - 1927](https://www.acmicpc.net/problem/1927)                                               | Silver 2 | 2023-03-30 | [소스코드](./BOJ/Q1927.java)                |
 | [BOJ - 20006](https://www.acmicpc.net/problem/20006)                                               | Silver 2 | 2023-03-30 | [소스코드](./BOJ/Q20006.java)                |
 | [BOJ - 1406](https://www.acmicpc.net/problem/1406)                                               | Silver 2 | 2023-04-02 | [소스코드](./BOJ/Q1406.java)                |
+| [BOJ - 2304](https://www.acmicpc.net/problem/2304)                                               | Silver 2 | 2023-04-03 | [소스코드](./BOJ/Q2304.java)                |
 
 <br/>
 
