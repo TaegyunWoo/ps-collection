@@ -86,14 +86,15 @@
 | [BOJ - 1244](https://www.acmicpc.net/problem/1244)                                               | Silver 4 | 2023-03-21 | [소스코드](./BOJ/Q1244.java)                |
 | [BOJ - 9017](https://www.acmicpc.net/problem/9017)                                               | Silver 4 | 2023-03-21 | [소스코드](./BOJ/Q9017.java)                |
 | [BOJ - 2164](https://www.acmicpc.net/problem/2164)                                               | Silver 4 | 2023-03-21 | [소스코드](./BOJ/Q2164.java)                |
-| [BOJ - 20920](https://www.acmicpc.net/problem/20920)                                             | Silver 3 | 2023-03-22 | [소스코드](./BOJ/Q20920.java)                |
+| [BOJ - 20920](https://www.acmicpc.net/problem/20920)                                             | Silver 3 | 2023-03-22 | [소스코드](./BOJ/Q20920.java)               |
 | [BOJ - 2607](https://www.acmicpc.net/problem/2607)                                               | Silver 3 | 2023-03-27 | [소스코드](./BOJ/Q2607.java)                |
 | [BOJ - 3758](https://www.acmicpc.net/problem/3758)                                               | Silver 3 | 2023-03-28 | [소스코드](./BOJ/Q3758.java)                |
-| [BOJ - 22233](https://www.acmicpc.net/problem/22233)                                               | Silver 3 | 2023-03-29 | [소스코드](./BOJ/Q22233.java)                |
+| [BOJ - 22233](https://www.acmicpc.net/problem/22233)                                             | Silver 3 | 2023-03-29 | [소스코드](./BOJ/Q22233.java)               |
 | [BOJ - 1927](https://www.acmicpc.net/problem/1927)                                               | Silver 2 | 2023-03-30 | [소스코드](./BOJ/Q1927.java)                |
-| [BOJ - 20006](https://www.acmicpc.net/problem/20006)                                               | Silver 2 | 2023-03-30 | [소스코드](./BOJ/Q20006.java)                |
+| [BOJ - 20006](https://www.acmicpc.net/problem/20006)                                             | Silver 2 | 2023-03-30 | [소스코드](./BOJ/Q20006.java)               |
 | [BOJ - 1406](https://www.acmicpc.net/problem/1406)                                               | Silver 2 | 2023-04-02 | [소스코드](./BOJ/Q1406.java)                |
 | [BOJ - 2304](https://www.acmicpc.net/problem/2304)                                               | Silver 2 | 2023-04-03 | [소스코드](./BOJ/Q2304.java)                |
+| [Programmers - 공 이동 시뮬레이션](https://school.programmers.co.kr/learn/courses/30/lessons/87391)      | Level 3  | 2023-04-05 | [소스코드](./Programmers/공이동시뮬레이션.java)     |
 
 <br/>
 
