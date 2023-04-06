@@ -95,7 +95,8 @@
 | [BOJ - 1406](https://www.acmicpc.net/problem/1406)                                               | Silver 2 | 2023-04-02 | [소스코드](./BOJ/Q1406.java)                |
 | [BOJ - 2304](https://www.acmicpc.net/problem/2304)                                               | Silver 2 | 2023-04-03 | [소스코드](./BOJ/Q2304.java)                |
 | [Programmers - 공 이동 시뮬레이션](https://school.programmers.co.kr/learn/courses/30/lessons/87391)      | Level 3  | 2023-04-05 | [소스코드](./Programmers/공이동시뮬레이션.java)     |
-| [Programmers - n^2 배열 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/87390) | Level 2  | 2023-04-05 | [소스코드](./Programmers/n^2배열자르기.java)     |
+| [Programmers - n^2 배열 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/87390)      | Level 2  | 2023-04-05 | [소스코드](./Programmers/n^2배열자르기.java)     |
+| [Programmers - 빛의 경로 사이클](https://school.programmers.co.kr/learn/courses/30/lessons/86052)       | Level 2  | 2023-04-06 | [소스코드](./Programmers/빛의경로사이클.java)      |
 
 <br/>
 
