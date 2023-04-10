@@ -134,6 +134,7 @@
 | [BOJ - 17484](https://www.acmicpc.net/problem/17484)                                         | Silver 3 | 2023-03-27 | [소스코드](./BOJ/Q17484.java)            |
 | [Programmers - 경주로 건설](https://school.programmers.co.kr/learn/courses/30/lessons/67259)      | Level 3  | 2023-04-04 | [소스코드](./Programmers/경주로건설.java)     |
 | [Programmers - 약수의 개수와 덧셈](https://school.programmers.co.kr/learn/courses/30/lessons/77884)  | Level 1  | 2023-04-10 | [소스코드](./Programmers/약수의개수와덧셈.java)  |
+| [Programmers - 모두 0으로 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/76503)  | Level 3  | 2023-04-10 | [소스코드](./Programmers/모두10으로만들기.java) |
 
 <br/>
 
