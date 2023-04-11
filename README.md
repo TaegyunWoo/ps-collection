@@ -30,6 +30,7 @@
 | [BOJ - 11501](https://www.acmicpc.net/problem/11501)                                           | Silver 2 | 2023-04-01 | [소스코드](./BOJ/Q11501.java)            |
 | [Programmers - 2개 이하로 다른 비트](https://school.programmers.co.kr/learn/courses/30/lessons/77885)  | Level 2  | 2023-04-08 | [소스코드](./Programmers/2개이하로다른비트.java) |
 | [Programmers - 110 옮기기](https://school.programmers.co.kr/learn/courses/30/lessons/77886)       | Level 3  | 2023-04-10 | [소스코드](./Programmers/110옮기기.java)    |
+| [Programmers - 스타수열](https://school.programmers.co.kr/learn/courses/30/lessons/70130)          | Level 3  | 2023-04-11 | [소스코드](./Programmers/스타수열.java)      |
 
 <br/>
 
