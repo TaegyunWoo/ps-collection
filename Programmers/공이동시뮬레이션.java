@@ -1,48 +1,52 @@
 class Solution {
-
   public long solution(int n, int m, int x, int y, int[][] queries) {
-    int startR = x;
-    int endR = x;
-    int startC = y;
-    int endC = y;
+    int[] areaLeftTop = {x, y};
+    int[] areaRightBottom = {x, y};
 
-    for (int i = queries.length-1; i >= 0; i--) {
+    //쿼리 역순으로 수행
+    for (int i = queries.length - 1; i >= 0; i--) {
       int[] query = queries[i];
+      int direction = query[0];
+      int dx = query[1];
 
-      if (query[0] == 0) { //좌 이동시 -> 반대 = 우
-        endC += query[1];
-        if (endC > m-1) endC = m - 1;
+      //방향별 계산
+      switch (direction) {
+        case 0: //좌로 이동하는 쿼리인 경우
+          if (areaLeftTop[1] != 0) { //영역이 좌측 끝에 붙어있지 않은 경우
+            areaLeftTop[1] += dx;
+            if (areaLeftTop[1] >= m) return 0; //벗어난 위치로부터 와야하는 경우
+          }
+          areaRightBottom[1] = (areaRightBottom[1] + dx >= m) ? m-1 : areaRightBottom[1] + dx;
+          break;
 
-        if (startC != 0) startC += query[1];
+        case 1: //우로 이동하는 쿼리인 경우
+          if (areaRightBottom[1] != m-1) { //영역이 우측 끝에 붙어있지 않은 경우
+            areaRightBottom[1] -= dx;
+            if (areaRightBottom[1] < 0) return 0; //벗어난 위치로부터 와야하는 경우
+          }
+          areaLeftTop[1] = (areaLeftTop[1] - dx < 0) ? 0 : areaLeftTop[1] - dx;
+          break;
 
-        if (startC > m - 1) return 0;
+        case 2: //상으로 이동하는 쿼리인 경우
+          if (areaLeftTop[0] != 0) { //영역이 윗쪽 끝에 붙어있지 않은 경우
+            areaLeftTop[0] += dx;
+            if (areaLeftTop[0] >= n) return 0; //벗어난 위치로부터 와야하는 경우
+          }
+          areaRightBottom[0] = (areaRightBottom[0] + dx >= n) ? n-1 : areaRightBottom[0] + dx;
+          break;
 
-      } else if (query[0] == 1) { //우 이동시 -> 반대 = 좌
-        startC -= query[1];
-        if (startC < 0) startC = 0;
+        case 3: //하로 이동하는 쿼리인 경우
+          if (areaRightBottom[0] != n-1) { //영역이 아랫쪽 끝에 붙어있지 않은 경우
+            areaRightBottom[0] -= dx;
+            if (areaRightBottom[0] < 0) return 0; //벗어난 위치로부터 와야하는 경우
+          }
+          areaLeftTop[0] = (areaLeftTop[0] - dx < 0) ? 0 : areaLeftTop[0] - dx;
+          break;
+      } //switch 문 종료
+    } //for 문 종료
 
-        if (endC != m-1) endC -= query[1];
-
-        if (endC < 0) return 0;
-
-      } else if (query[0] == 2) { //상 이동시 -> 반대 = 하
-        endR += query[1];
-        if (endR > n-1) endR = n - 1;
-
-        if (startR != 0) startR += query[1];
-
-        if (startR > n - 1) return 0;
-
-      } else if (query[0] == 3) { //하 이동시 -> 반대 = 상
-        startR -= query[1];
-        if (startR < 0) startR = 0;
-
-        if (endR != n-1) endR -= query[1];
-
-        if (endR < 0) return 0;
-      }
-    }
-
-    return (long) (endR - startR + 1) * (long) (endC - startC + 1);
+    //정답 구하기
+    long answer = (long) (areaRightBottom[0] - areaLeftTop[0] + 1) * (long) (areaRightBottom[1] - areaLeftTop[1] + 1);
+    return answer;
   }
 }
