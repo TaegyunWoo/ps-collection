@@ -115,37 +115,38 @@
 
 ### 완전탐색, BFS, DFS
 
-| 문제                                                                                           | 난이도      | 풀이날짜       | 소스코드                                 |
-|----------------------------------------------------------------------------------------------|----------|------------|--------------------------------------|
-| [BOJ - 1941](https://www.acmicpc.net/problem/1941)                                           | Gold 3   | 2022-03-13 | [소스코드](./BOJ/Q1941.java)             |
-| [BOJ - 5014](https://www.acmicpc.net/problem/5014)                                           | Gold 5   | 2022-03-13 | [소스코드](./BOJ/Q5014.java)             |
-| [BOJ - 2468](https://www.acmicpc.net/problem/2468)                                           | Silver 1 | 2022-03-14 | [소스코드](./BOJ/Q2468.java)             |
-| [BOJ - 10026](https://www.acmicpc.net/problem/10026)                                         | Gold 5   | 2022-03-15 | [소스코드](./BOJ/Q10026.java)            |
-| [BOJ - 3055](https://www.acmicpc.net/problem/3055)                                           | Gold 4   | 2022-03-16 | [소스코드](./BOJ/Q3055.java)             |
-| [BOJ - 1759](https://www.acmicpc.net/problem/1759)                                           | Gold 5   | 2022-03-18 | [소스코드](./BOJ/Q1759.java)             |
-| [BOJ - 2206](https://www.acmicpc.net/problem/2206)                                           | Gold 4   | 2022-04-06 | [소스코드](./BOJ/Q2206.java)             |
-| [BOJ - 2606](https://www.acmicpc.net/problem/2606)                                           | Silver 3 | 2022-12-08 | [소스코드](./BOJ/Q2606.java)             |
-| [BOJ - 1012](https://www.acmicpc.net/problem/1012)                                           | Silver 1 | 2022-12-08 | [소스코드](./BOJ/Q1012.java)             |
-| [BOJ - 2583](https://www.acmicpc.net/problem/2583)                                           | Silver 1 | 2022-12-09 | [소스코드](./BOJ/Q2583.java)             |
-| [BOJ - 9205](https://www.acmicpc.net/problem/9205)                                           | Silver 1 | 2022-12-09 | [소스코드](./BOJ/Q9205.java)             |
-| [BOJ - 1325](https://www.acmicpc.net/problem/1325)                                           | Silver 1 | 2022-12-10 | [소스코드](./BOJ/Q1325.java)             |
-| [Programmers - 최소직사각형](https://school.programmers.co.kr/learn/courses/30/lessons/86491)      | Level 1  | 2022-12-18 | [소스코드](./Programmers/최소직사각형.java)    |
-| [Programmers - 피로도](https://school.programmers.co.kr/learn/courses/30/lessons/87946)         | Level 2  | 2022-12-18 | [소스코드](./Programmers/피로도.java)       |
+| 문제                                                                                          | 난이도      | 풀이날짜       | 소스코드                                 |
+|---------------------------------------------------------------------------------------------|----------|------------|--------------------------------------|
+| [BOJ - 1941](https://www.acmicpc.net/problem/1941)                                          | Gold 3   | 2022-03-13 | [소스코드](./BOJ/Q1941.java)             |
+| [BOJ - 5014](https://www.acmicpc.net/problem/5014)                                          | Gold 5   | 2022-03-13 | [소스코드](./BOJ/Q5014.java)             |
+| [BOJ - 2468](https://www.acmicpc.net/problem/2468)                                          | Silver 1 | 2022-03-14 | [소스코드](./BOJ/Q2468.java)             |
+| [BOJ - 10026](https://www.acmicpc.net/problem/10026)                                        | Gold 5   | 2022-03-15 | [소스코드](./BOJ/Q10026.java)            |
+| [BOJ - 3055](https://www.acmicpc.net/problem/3055)                                          | Gold 4   | 2022-03-16 | [소스코드](./BOJ/Q3055.java)             |
+| [BOJ - 1759](https://www.acmicpc.net/problem/1759)                                          | Gold 5   | 2022-03-18 | [소스코드](./BOJ/Q1759.java)             |
+| [BOJ - 2206](https://www.acmicpc.net/problem/2206)                                          | Gold 4   | 2022-04-06 | [소스코드](./BOJ/Q2206.java)             |
+| [BOJ - 2606](https://www.acmicpc.net/problem/2606)                                          | Silver 3 | 2022-12-08 | [소스코드](./BOJ/Q2606.java)             |
+| [BOJ - 1012](https://www.acmicpc.net/problem/1012)                                          | Silver 1 | 2022-12-08 | [소스코드](./BOJ/Q1012.java)             |
+| [BOJ - 2583](https://www.acmicpc.net/problem/2583)                                          | Silver 1 | 2022-12-09 | [소스코드](./BOJ/Q2583.java)             |
+| [BOJ - 9205](https://www.acmicpc.net/problem/9205)                                          | Silver 1 | 2022-12-09 | [소스코드](./BOJ/Q9205.java)             |
+| [BOJ - 1325](https://www.acmicpc.net/problem/1325)                                          | Silver 1 | 2022-12-10 | [소스코드](./BOJ/Q1325.java)             |
+| [Programmers - 최소직사각형](https://school.programmers.co.kr/learn/courses/30/lessons/86491)     | Level 1  | 2022-12-18 | [소스코드](./Programmers/최소직사각형.java)    |
+| [Programmers - 피로도](https://school.programmers.co.kr/learn/courses/30/lessons/87946)        | Level 2  | 2022-12-18 | [소스코드](./Programmers/피로도.java)       |
 | [Programmers - 전력망을_둘로_나누기](https://school.programmers.co.kr/learn/courses/30/lessons/86971) | Level 2  | 2022-12-18 | [소스코드](./Programmers/전력망을둘로나누기.java) |
-| [Programmers - 모음사전](https://school.programmers.co.kr/learn/courses/30/lessons/84512)        | Level 2  | 2022-12-20 | [소스코드](./Programmers/모음사전.java)      |
-| [Programmers - 게임맵_최단거리](https://school.programmers.co.kr/learn/courses/30/lessons/1844)     | Level 2  | 2022-12-20 | [소스코드](./Programmers/게임맵최단거리.java)   |
-| [Programmers - 여행경로](https://school.programmers.co.kr/learn/courses/30/lessons/43164)        | Level 3  | 2022-12-20 | [소스코드](./Programmers/여행경로.java)      |
-| [Programmers - 아이템줍기](https://school.programmers.co.kr/learn/courses/30/lessons/87694)       | Level 3  | 2022-12-21 | [소스코드](./Programmers/아이템줍기.java)     |
+| [Programmers - 모음사전](https://school.programmers.co.kr/learn/courses/30/lessons/84512)       | Level 2  | 2022-12-20 | [소스코드](./Programmers/모음사전.java)      |
+| [Programmers - 게임맵_최단거리](https://school.programmers.co.kr/learn/courses/30/lessons/1844)    | Level 2  | 2022-12-20 | [소스코드](./Programmers/게임맵최단거리.java)   |
+| [Programmers - 여행경로](https://school.programmers.co.kr/learn/courses/30/lessons/43164)       | Level 3  | 2022-12-20 | [소스코드](./Programmers/여행경로.java)      |
+| [Programmers - 아이템줍기](https://school.programmers.co.kr/learn/courses/30/lessons/87694)      | Level 3  | 2022-12-21 | [소스코드](./Programmers/아이템줍기.java)     |
 | [Programmers - 이모티콘 할인 행사](https://school.programmers.co.kr/learn/courses/30/lessons/150368) | Level 2  | 2023-01-23 | [소스코드](./Programmers/이모티콘할인행사.java)  |
-| [Programmers - 다음 큰 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12911)     | Level 2  | 2023-01-23 | [소스코드](./Programmers/다음큰숫자.java)     |
-| [Programmers - 미로 탈출 명령어](https://school.programmers.co.kr/learn/courses/30/lessons/150365)  | Level 3  | 2023-01-27 | [소스코드](./Programmers/미로탈출명령어.java)   |
-| [Programmers - 양궁대회](https://school.programmers.co.kr/learn/courses/30/lessons/92342)        | Level 2  | 2023-02-11 | [소스코드](./Programmers/양궁대회.java)      |
-| [Programmers - 양과 늑대](https://school.programmers.co.kr/learn/courses/30/lessons/92343)       | Level 3  | 2023-02-12 | [소스코드](./Programmers/양과늑대.java)      |
-| [BOJ - 17471](https://www.acmicpc.net/problem/17471)                                         | Gold 4   | 2023-03-14 | [소스코드](./BOJ/Q17471.java)            |
-| [BOJ - 17484](https://www.acmicpc.net/problem/17484)                                         | Silver 3 | 2023-03-27 | [소스코드](./BOJ/Q17484.java)            |
-| [Programmers - 경주로 건설](https://school.programmers.co.kr/learn/courses/30/lessons/67259)      | Level 3  | 2023-04-04 | [소스코드](./Programmers/경주로건설.java)     |
-| [Programmers - 약수의 개수와 덧셈](https://school.programmers.co.kr/learn/courses/30/lessons/77884)  | Level 1  | 2023-04-10 | [소스코드](./Programmers/약수의개수와덧셈.java)  |
-| [Programmers - 모두 0으로 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/76503)  | Level 3  | 2023-04-10 | [소스코드](./Programmers/모두10으로만들기.java) |
+| [Programmers - 다음 큰 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12911)    | Level 2  | 2023-01-23 | [소스코드](./Programmers/다음큰숫자.java)     |
+| [Programmers - 미로 탈출 명령어](https://school.programmers.co.kr/learn/courses/30/lessons/150365) | Level 3  | 2023-01-27 | [소스코드](./Programmers/미로탈출명령어.java)   |
+| [Programmers - 양궁대회](https://school.programmers.co.kr/learn/courses/30/lessons/92342)       | Level 2  | 2023-02-11 | [소스코드](./Programmers/양궁대회.java)      |
+| [Programmers - 양과 늑대](https://school.programmers.co.kr/learn/courses/30/lessons/92343)      | Level 3  | 2023-02-12 | [소스코드](./Programmers/양과늑대.java)      |
+| [BOJ - 17471](https://www.acmicpc.net/problem/17471)                                        | Gold 4   | 2023-03-14 | [소스코드](./BOJ/Q17471.java)            |
+| [BOJ - 17484](https://www.acmicpc.net/problem/17484)                                        | Silver 3 | 2023-03-27 | [소스코드](./BOJ/Q17484.java)            |
+| [Programmers - 경주로 건설](https://school.programmers.co.kr/learn/courses/30/lessons/67259)     | Level 3  | 2023-04-04 | [소스코드](./Programmers/경주로건설.java)     |
+| [Programmers - 약수의 개수와 덧셈](https://school.programmers.co.kr/learn/courses/30/lessons/77884) | Level 1  | 2023-04-10 | [소스코드](./Programmers/약수의개수와덧셈.java)  |
+| [Programmers - 모두 0으로 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/76503) | Level 3  | 2023-04-10 | [소스코드](./Programmers/모두10으로만들기.java) |
+| [Programmers - 미로 탈출](https://school.programmers.co.kr/learn/courses/30/lessons/159993)      | Level 2  | 2023-04-20 | [소스코드](./Programmers/미로탈출.java)      |
 
 <br/>
 
