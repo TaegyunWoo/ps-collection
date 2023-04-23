@@ -32,6 +32,7 @@
 | [Programmers - 110 옮기기](https://school.programmers.co.kr/learn/courses/30/lessons/77886)       | Level 3  | 2023-04-10 | [소스코드](./Programmers/110옮기기.java)    |
 | [Programmers - 스타수열](https://school.programmers.co.kr/learn/courses/30/lessons/70130)          | Level 3  | 2023-04-11 | [소스코드](./Programmers/스타수열.java)      |
 | [Programmers - 풍선터트리기](https://school.programmers.co.kr/learn/courses/30/lessons/68646)        | Level 3  | 2023-04-12 | [소스코드](./Programmers/풍선터트리기.java)    |
+| [Programmers - 억억단을 외우자](https://school.programmers.co.kr/learn/courses/30/lessons/138475)      | Level 3  | 2023-04-23  | [소스코드](./Programmers/억억단을외우자.java)   |
 
 <br/>
 
