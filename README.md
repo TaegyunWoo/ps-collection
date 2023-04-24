@@ -148,7 +148,8 @@
 | [Programmers - 약수의 개수와 덧셈](https://school.programmers.co.kr/learn/courses/30/lessons/77884)  | Level 1  | 2023-04-10 | [소스코드](./Programmers/약수의개수와덧셈.java)  |
 | [Programmers - 모두 0으로 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/76503)  | Level 3  | 2023-04-10 | [소스코드](./Programmers/모두10으로만들기.java) |
 | [Programmers - 미로 탈출](https://school.programmers.co.kr/learn/courses/30/lessons/159993)      | Level 2  | 2023-04-20 | [소스코드](./Programmers/미로탈출.java)      |
-| [Programmers - 부대 복귀](https://school.programmers.co.kr/learn/courses/30/lessons/132266)     | Level 3  | 2023-04-22 | [소스코드](./Programmers/부대복귀.java)      |
+| [Programmers - 부대 복귀](https://school.programmers.co.kr/learn/courses/30/lessons/132266)      | Level 3  | 2023-04-22 | [소스코드](./Programmers/부대복귀.java)      |
+| [Programmers - 리코쳇 로봇](https://school.programmers.co.kr/learn/courses/30/lessons/169199)     | Level 2  | 2023-04-24 | [소스코드](./Programmers/리코쳇로봇.java)     |
 
 <br/>
 
