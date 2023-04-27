@@ -152,6 +152,7 @@
 | [Programmers - 미로 탈출](https://school.programmers.co.kr/learn/courses/30/lessons/159993)      | Level 2  | 2023-04-20 | [소스코드](./Programmers/미로탈출.java)      |
 | [Programmers - 부대 복귀](https://school.programmers.co.kr/learn/courses/30/lessons/132266)      | Level 3  | 2023-04-22 | [소스코드](./Programmers/부대복귀.java)      |
 | [Programmers - 리코쳇 로봇](https://school.programmers.co.kr/learn/courses/30/lessons/169199)     | Level 2  | 2023-04-24 | [소스코드](./Programmers/리코쳇로봇.java)     |
+| [Programmers - 광물 캐기](https://school.programmers.co.kr/learn/courses/30/lessons/172927)      | Level 2  | 2023-04-27 | [소스코드](./Programmers/광물캐기.java)      |
 
 <br/>
 
