@@ -230,6 +230,7 @@
 | [BOJ - 27210](https://www.acmicpc.net/problem/27210)   | Gold 4 | 2023-01-15 | [소스코드](./BOJ/Q27210.java) |
 | [Programmers - 코딩 테스트 공부](https://school.programmers.co.kr/learn/courses/30/lessons/118668)      | Level 3 | 2023-01-30 | [소스코드](./Programmers/코딩테스트공부.java)    |
 | [BOJ - 2616](https://www.acmicpc.net/problem/2616)   | Gold 3 | 2023-03-07 | [소스코드](./BOJ/Q2616.java) |
+| [Programmers - 숫자 타자 대회](https://school.programmers.co.kr/learn/courses/30/lessons/136797)      | Level 3 | 2023-04-28 | [소스코드](./Programmers/숫자타자대회.java)    |
 
 <br/>
 
