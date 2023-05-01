@@ -277,11 +277,12 @@
 <br/>
 
 ### 누적합
-| 문제                                                                                              | 난이도      | 풀이날짜       | 소스코드                                  |
-|-------------------------------------------------------------------------------------------------|----------|------------|---------------------------------------|
-| [Programmers - 파괴되지 않은 건물](https://school.programmers.co.kr/learn/courses/30/lessons/92344)     | Level 3  | 2023-02-03 | [소스코드](./Programmers/파괴되지않은건물.java)   |
-| [Programmers - 광고 삽입](https://school.programmers.co.kr/learn/courses/30/lessons/72414)          | Level 3  | 2023-03-04 | [소스코드](./Programmers/광고삽입.java)       |
-| [BOJ - 10800](https://www.acmicpc.net/problem/10800)                                            | Gold 3   | 2023-03-05 | [소스코드](./BOJ/Q10800.java)             |
-| [BOJ - 1806](https://www.acmicpc.net/problem/1806)                                              | Gold 4   | 2023-03-06 | [소스코드](./BOJ/Q1806.java)              |
-| [BOJ - 21921](https://www.acmicpc.net/problem/21921)                                            | Silver 3 | 2023-03-23 | [소스코드](./BOJ/Q21921.java)             |
+| 문제                                                                                               | 난이도      | 풀이날짜       | 소스코드                                  |
+|--------------------------------------------------------------------------------------------------|----------|------------|---------------------------------------|
+| [Programmers - 파괴되지 않은 건물](https://school.programmers.co.kr/learn/courses/30/lessons/92344)      | Level 3  | 2023-02-03 | [소스코드](./Programmers/파괴되지않은건물.java)   |
+| [Programmers - 광고 삽입](https://school.programmers.co.kr/learn/courses/30/lessons/72414)           | Level 3  | 2023-03-04 | [소스코드](./Programmers/광고삽입.java)       |
+| [BOJ - 10800](https://www.acmicpc.net/problem/10800)                                             | Gold 3   | 2023-03-05 | [소스코드](./BOJ/Q10800.java)             |
+| [BOJ - 1806](https://www.acmicpc.net/problem/1806)                                               | Gold 4   | 2023-03-06 | [소스코드](./BOJ/Q1806.java)              |
+| [BOJ - 21921](https://www.acmicpc.net/problem/21921)                                             | Silver 3 | 2023-03-23 | [소스코드](./BOJ/Q21921.java)             |
 | [Programmers - 연속 펄스 부분 수열의 합](https://school.programmers.co.kr/learn/courses/30/lessons/161988) | Level 3  | 2023-04-18 | [소스코드](./Programmers/연속펄스부분수열의합.java) |
+| [Programmers - 연속된 부분 수열의 합](https://school.programmers.co.kr/learn/courses/30/lessons/178870)   | Level 2  | 2023-05-01 | [소스코드](./Programmers/연속된부분수열의합.java)  |
