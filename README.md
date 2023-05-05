@@ -209,6 +209,7 @@
 | [Programmers - 순위](https://school.programmers.co.kr/learn/courses/30/lessons/49191)      | Level 3 | 2022-12-30 | [소스코드](./Programmers/순위.java)    |
 | [Programmers - 등산코스 정하기](https://school.programmers.co.kr/learn/courses/30/lessons/118669)      | Level 3 | 2023-01-29 | [소스코드](./Programmers/등산코스정하기.java)    |
 | [Programmers - 합승 택시 요금](https://school.programmers.co.kr/learn/courses/30/lessons/72413)      | Level 3 | 2023-03-08 | [소스코드](./Programmers/합승택시요금.java)    |
+| [Programmers - 등대](https://school.programmers.co.kr/learn/courses/30/lessons/133500)      | Level 3 | 2023-05-05 | [소스코드](./Programmers/등대.java)    |
 
 <br/>
 
