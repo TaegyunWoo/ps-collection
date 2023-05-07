@@ -34,8 +34,9 @@
 | [Programmers - 풍선터트리기](https://school.programmers.co.kr/learn/courses/30/lessons/68646)        | Level 3  | 2023-04-12 | [소스코드](./Programmers/풍선터트리기.java)    |
 | [Programmers - 억억단을 외우자](https://school.programmers.co.kr/learn/courses/30/lessons/138475)     | Level 3  | 2023-04-23 | [소스코드](./Programmers/억억단을외우자.java)   |
 | [Programmers - 요격 시스템](https://school.programmers.co.kr/learn/courses/30/lessons/181188)       | Level 2  | 2023-04-25 | [소스코드](./Programmers/요격시스템.java)     |
-| [Programmers - 두원사이의정수쌍](https://school.programmers.co.kr/learn/courses/30/lessons/181187)     | Level 2  | 2023-04-26 | [소스코드](./Programmers/두원사이의정수쌍.java)     |
+| [Programmers - 두원사이의정수쌍](https://school.programmers.co.kr/learn/courses/30/lessons/181187)     | Level 2  | 2023-04-26 | [소스코드](./Programmers/두원사이의정수쌍.java)  |
 | [Programmers - 뒤에 있는 큰수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/154539)  | Level 2  | 2023-05-04 | [소스코드](./Programmers/뒤에있는큰수찾기.java)  |
+| [Programmers - 시소 짝꿍](https://school.programmers.co.kr/learn/courses/30/lessons/152996)        | Level 2  | 2023-05-07 | [소스코드](./Programmers/시소짝꿍.java)      |
 
 <br/>
 
