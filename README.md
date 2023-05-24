@@ -39,6 +39,7 @@
 | [Programmers - 시소 짝꿍](https://school.programmers.co.kr/learn/courses/30/lessons/152996)        | Level 2  | 2023-05-07 | [소스코드](./Programmers/시소짝꿍.java)      |
 | [Programmers - 2차원 동전 뒤집기](https://school.programmers.co.kr/learn/courses/30/lessons/131703)   | Level 3  | 2023-05-08 | [소스코드](./Programmers/2차원동전뒤집기.java)  |
 | [Programmers - 마법의 엘레베이터](https://school.programmers.co.kr/learn/courses/30/lessons/148653)    | Level 2  | 2023-05-09 | [소스코드](./Programmers/마법의엘레베이터.java)  |
+| [Programmers - 고고학 최고의 발견](https://school.programmers.co.kr/learn/courses/30/lessons/131702)   | Level 3  | 2023-05-24  | [소스코드](./Programmers/고고학최고의발견.java)  |
 
 <br/>
 
