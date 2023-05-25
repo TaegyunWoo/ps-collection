@@ -241,6 +241,7 @@
 | [BOJ - 2616](https://www.acmicpc.net/problem/2616)   | Gold 3 | 2023-03-07 | [소스코드](./BOJ/Q2616.java) |
 | [Programmers - 숫자 타자 대회](https://school.programmers.co.kr/learn/courses/30/lessons/136797)      | Level 3 | 2023-04-28 | [소스코드](./Programmers/숫자타자대회.java)    |
 | [Programmers - 숫자 변환하기](https://school.programmers.co.kr/learn/courses/30/lessons/154538)      | Level 2 | 2023-05-05 | [소스코드](./Programmers/숫자변환하기.java)    |
+| [Programmers - 카운트 다운](https://school.programmers.co.kr/learn/courses/30/lessons/131129)      | Level 3 | 2023-05-25 | [소스코드](./Programmers/카운트다운.java)    |
 
 <br/>
 
