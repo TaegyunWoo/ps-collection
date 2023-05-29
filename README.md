@@ -41,6 +41,7 @@
 | [Programmers - 마법의 엘레베이터](https://school.programmers.co.kr/learn/courses/30/lessons/148653)    | Level 2  | 2023-05-09 | [소스코드](./Programmers/마법의엘레베이터.java)  |
 | [Programmers - 고고학 최고의 발견](https://school.programmers.co.kr/learn/courses/30/lessons/131702)   | Level 3  | 2023-05-24 | [소스코드](./Programmers/고고학최고의발견.java)  |
 | [Programmers - 디펜스 게임](https://school.programmers.co.kr/learn/courses/30/lessons/142085)       | Level 2  | 2023-05-27 | [소스코드](./Programmers/디펜스게임.java)     |
+| [Programmers - 점 찍기](https://school.programmers.co.kr/learn/courses/30/lessons/140107)         | Level 2  | 2023-05-29 | [소스코드](./Programmers/점찍기.java)       |
 
 <br/>
 
