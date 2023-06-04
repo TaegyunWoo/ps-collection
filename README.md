@@ -62,7 +62,8 @@
 | [Programmers - 디스크컨트롤러](https://school.programmers.co.kr/learn/courses/30/lessons/42627)  | Level 3 | 2022-12-24 | [소스코드](./Programmers/디스크컨트롤러.java)  |
 | [Programmers - 이중우선순위큐](https://school.programmers.co.kr/learn/courses/30/lessons/42628)  | Level 3 | 2022-12-24 | [소스코드](./Programmers/이중우선순위큐.java)  |
 | [Programmers - 호텔대실](https://school.programmers.co.kr/learn/courses/30/lessons/155651)    | Level 2 | 2023-02-28 | [소스코드](./Programmers/호텔대실.java)     |
-| [Programmers - 괄호 회전하기](https://school.programmers.co.kr/learn/courses/30/lessons/76502) | Level 2 | 2023-04-11 | [소스코드](./Programmers/괄호회전하기.java)   |
+| [Programmers - 괄호 회전하기](https://school.programmers.co.kr/learn/courses/30/lessons/76502)  | Level 2 | 2023-04-11 | [소스코드](./Programmers/괄호회전하기.java)   |
+| [Programmers - 택배상자](https://school.programmers.co.kr/learn/courses/30/lessons/131704)    | Level 2 | 2023-06-04 | [소스코드](./Programmers/택배상자.java)     |
 
 <br/>
 
