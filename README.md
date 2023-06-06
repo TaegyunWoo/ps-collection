@@ -168,6 +168,7 @@
 | [Programmers - 리코쳇 로봇](https://school.programmers.co.kr/learn/courses/30/lessons/169199)     | Level 2  | 2023-04-24 | [소스코드](./Programmers/리코쳇로봇.java)     |
 | [Programmers - 광물 캐기](https://school.programmers.co.kr/learn/courses/30/lessons/172927)      | Level 2  | 2023-04-27 | [소스코드](./Programmers/광물캐기.java)      |
 | [Programmers - 무인도 여행](https://school.programmers.co.kr/learn/courses/30/lessons/154540)     | Level 2  | 2023-05-03 | [소스코드](./Programmers/무인도여행.java)     |
+| [Programmers - 혼자 놀기의 달인](https://school.programmers.co.kr/learn/courses/30/lessons/131130)  | Level 2  | 2023-05-06 | [소스코드](./Programmers/혼자놀기의달인.java)   |
 
 <br/>
 
