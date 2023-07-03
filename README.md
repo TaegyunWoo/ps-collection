@@ -127,7 +127,8 @@
 | [Programmers - 테이블해시함수](https://school.programmers.co.kr/learn/courses/30/lessons/147354)        | Level 2  | 2023-05-24 | [소스코드](./Programmers/테이블해시함수.java)      |
 | [Programmers - 퍼즐 조각 채우기](https://school.programmers.co.kr/learn/courses/30/lessons/84021)       | Level 2  | 2023-05-31 | [소스코드](./Programmers/퍼즐조각채우기.java)      |
 | [Programmers - 연속 부분 수열 합의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/131701) | Level 2  | 2023-06-05 | [소스코드](./Programmers/연속부분수열합의개수.java)   |
-| [Programmers - 다단계 칫솔 판매](https://school.programmers.co.kr/learn/courses/30/lessons/77486)      | Level 3  | 2023-07-02 | [소스코드](./Programmers/다단계칫솔판매.java)      |
+| [Programmers - 다단계 칫솔 판매](https://school.programmers.co.kr/learn/courses/30/lessons/77486)       | Level 3  | 2023-07-02 | [소스코드](./Programmers/다단계칫솔판매.java)      |
+| [Programmers - 교점에 별 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/87377)       | Level 3  | 2023-07-02 | [소스코드](./Programmers/교점에별만들기.java)      |
 
 <br/>
 
