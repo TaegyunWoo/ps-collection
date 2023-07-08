@@ -129,6 +129,7 @@
 | [Programmers - 연속 부분 수열 합의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/131701) | Level 2  | 2023-06-05 | [소스코드](./Programmers/연속부분수열합의개수.java)   |
 | [Programmers - 다단계 칫솔 판매](https://school.programmers.co.kr/learn/courses/30/lessons/77486)       | Level 3  | 2023-07-02 | [소스코드](./Programmers/다단계칫솔판매.java)      |
 | [Programmers - 교점에 별 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/87377)       | Level 3  | 2023-07-02 | [소스코드](./Programmers/교점에별만들기.java)      |
+| [Programmers - 행렬 테두리 회전하기](https://school.programmers.co.kr/learn/courses/30/lessons/77485)     | Level 2  | 2023-07-08 | [소스코드](./Programmers/행렬테두리회전하기.java)    |
 
 <br/>
 
