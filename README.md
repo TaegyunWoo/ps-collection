@@ -175,6 +175,7 @@
 | [Programmers - 무인도 여행](https://school.programmers.co.kr/learn/courses/30/lessons/154540)     | Level 2  | 2023-05-03 | [소스코드](./Programmers/무인도여행.java)     |
 | [Programmers - 혼자 놀기의 달인](https://school.programmers.co.kr/learn/courses/30/lessons/131130)  | Level 2  | 2023-05-06 | [소스코드](./Programmers/혼자놀기의달인.java)   |
 | [Programmers - 할인 행사](https://school.programmers.co.kr/learn/courses/30/lessons/131127)      | Level 2  | 2023-07-01 | [소스코드](./Programmers/할인행사.java)      |
+| [Programmers - 불량 사용자](https://school.programmers.co.kr/learn/courses/30/lessons/64064)     | Level 3  | 2023-07-15 | [소스코드](./Programmers/불량사용자.java)     |
 
 <br/>
 
