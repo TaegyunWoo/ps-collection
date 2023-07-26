@@ -132,6 +132,7 @@
 | [Programmers - 행렬 테두리 회전하기](https://school.programmers.co.kr/learn/courses/30/lessons/77485)     | Level 2  | 2023-07-08 | [소스코드](./Programmers/행렬테두리회전하기.java)    |
 | [Programmers - 수식 최대화](https://school.programmers.co.kr/learn/courses/30/lessons/67257)          | Level 2  | 2023-07-12 | [소스코드](./Programmers/수식최대화.java)        |
 | [Programmers - 튜플](https://school.programmers.co.kr/learn/courses/30/lessons/64065)              | Level 2  | 2023-07-13 | [소스코드](./Programmers/튜플.java)           |
+| [Programmers - 상담원 인원](https://school.programmers.co.kr/learn/courses/30/lessons/214288)          | Level 3  | 2023-07-26 | [소스코드](./Programmers/상담원인원.java)        |
 
 <br/>
 
