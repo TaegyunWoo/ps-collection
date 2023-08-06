@@ -135,6 +135,7 @@
 | [Programmers - 상담원 인원](https://school.programmers.co.kr/learn/courses/30/lessons/214288)         | Level 3  | 2023-07-26 | [소스코드](./Programmers/상담원인원.java)        |
 | [Programmers - 멀쩡한 사각형](https://school.programmers.co.kr/learn/courses/30/lessons/62048)         | Level 2  | 2023-07-29 | [소스코드](./Programmers/멀쩡한사각형.java)       |
 | [Programmers - 괄호 변환](https://school.programmers.co.kr/learn/courses/30/lessons/60058)           | Level 2  | 2023-07-31 | [소스코드](./Programmers/괄호변환.java)         |
+| [Programmers - 문자열 압축](https://school.programmers.co.kr/learn/courses/30/lessons/60057)          | Level 2  | 2023-08-06 | [소스코드](./Programmers/문자열압축.java)        |
 
 <br/>
 
