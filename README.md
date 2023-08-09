@@ -137,6 +137,7 @@
 | [Programmers - 괄호 변환](https://school.programmers.co.kr/learn/courses/30/lessons/60058)           | Level 2  | 2023-07-31 | [소스코드](./Programmers/괄호변환.java)         |
 | [Programmers - 문자열 압축](https://school.programmers.co.kr/learn/courses/30/lessons/60057)          | Level 2  | 2023-08-06 | [소스코드](./Programmers/문자열압축.java)        |
 | [Programmers - 블록 이동하기](https://school.programmers.co.kr/learn/courses/30/lessons/60063)         | Level 3  | 2023-08-08 | [소스코드](./Programmers/블록이동하기.java)       |
+| [Programmers - 방문 길이](https://school.programmers.co.kr/learn/courses/30/lessons/49994)           | Level 2  | 2023-08-08 | [소스코드](./Programmers/방문길이.java)         |
 
 <br/>
 
