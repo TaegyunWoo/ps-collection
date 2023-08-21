@@ -64,6 +64,7 @@
 | [Programmers - 호텔대실](https://school.programmers.co.kr/learn/courses/30/lessons/155651)    | Level 2 | 2023-02-28 | [소스코드](./Programmers/호텔대실.java)     |
 | [Programmers - 괄호 회전하기](https://school.programmers.co.kr/learn/courses/30/lessons/76502)  | Level 2 | 2023-04-11 | [소스코드](./Programmers/괄호회전하기.java)   |
 | [Programmers - 택배상자](https://school.programmers.co.kr/learn/courses/30/lessons/131704)    | Level 2 | 2023-06-04 | [소스코드](./Programmers/택배상자.java)     |
+| [Programmers - 예상 대진표](https://school.programmers.co.kr/learn/courses/30/lessons/12985)  | Level 2 | 2023-08-21 | [소스코드](./Programmers/예상대진표.java)    |
 
 <br/>
 
