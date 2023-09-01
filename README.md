@@ -187,7 +187,8 @@
 | [Programmers - 스킬 트리](https://school.programmers.co.kr/learn/courses/30/lessons/49993)       | Level 2  | 2023-08-18 | [소스코드](./Programmers/스킬트리.java)      |
 | [Programmers - 외벽 점검](https://school.programmers.co.kr/learn/courses/30/lessons/60062)       | Level 3  | 2023-08-20 | [소스코드](./Programmers/외벽점검.java)      |
 | [Programmers - 자물쇠와 열쇠](https://school.programmers.co.kr/learn/courses/30/lessons/60059)     | Level 3  | 2023-08-20 | [소스코드](./Programmers/자물쇠와열쇠.java)    |
-| [BOJ - 1138](https://www.acmicpc.net/problem/1138)                                         | Silver 2 | 2023-09-01 | [소스코드](./BOJ/Q1138.java)                 |
+| [BOJ - 1138](https://www.acmicpc.net/problem/1138)                                           | Silver 2 | 2023-09-01 | [소스코드](./BOJ/Q1138.java)             |
+| [BOJ - 14940](https://www.acmicpc.net/problem/14940)                                         | Silver 1 | 2023-09-01 | [소스코드](./BOJ/Q14940.java)            |
 
 <br/>
 
