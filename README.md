@@ -194,11 +194,12 @@
 
 ### 투포인터
 
-| 문제                                                                                     | 난이도     | 풀이날짜       | 소스코드                            |
-|----------------------------------------------------------------------------------------|---------|------------|---------------------------------|
-| [BOJ - 2470](https://www.acmicpc.net/problem/2470)                                     | Gold 5  | 2022-03-15 | [소스코드](./BOJ/Q2470.java)        |
-| [BOJ - 1644](https://www.acmicpc.net/problem/1644)                                     | Gold 5  | 2022-03-17 | [소스코드](./BOJ/Q1644.java)        |
-| [Programmers - 보석쇼핑](https://school.programmers.co.kr/learn/courses/30/lessons/67258) | Level 3 | 2023-07-10 | [소스코드](./Programmers/보석쇼핑.java) |
+| 문제                                                                                     | 난이도      | 풀이날짜       | 소스코드                            |
+|----------------------------------------------------------------------------------------|----------|------------|---------------------------------|
+| [BOJ - 2470](https://www.acmicpc.net/problem/2470)                                     | Gold 5   | 2022-03-15 | [소스코드](./BOJ/Q2470.java)        |
+| [BOJ - 1644](https://www.acmicpc.net/problem/1644)                                     | Gold 5   | 2022-03-17 | [소스코드](./BOJ/Q1644.java)        |
+| [Programmers - 보석쇼핑](https://school.programmers.co.kr/learn/courses/30/lessons/67258) | Level 3  | 2023-07-10 | [소스코드](./Programmers/보석쇼핑.java) |
+| [BOJ - 20922](https://www.acmicpc.net/problem/20922)                                     | Silver 1 | 2022-09-03 | [소스코드](./BOJ/Q20922.java)            |
 
 <br/>
 
