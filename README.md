@@ -44,7 +44,8 @@
 | [Programmers - 점 찍기](https://school.programmers.co.kr/learn/courses/30/lessons/140107)         | Level 2  | 2023-05-29 | [소스코드](./Programmers/점찍기.java)       |
 | [Programmers - 귤 고르기](https://school.programmers.co.kr/learn/courses/30/lessons/138476)        | Level 2  | 2023-05-30 | [소스코드](./Programmers/귤고르기.java)      |
 | [Programmers - 숫자 카드 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/135807)    | Level 2  | 2023-06-01 | [소스코드](./Programmers/숫자카드나누기.java)   |
-| [BOJ - 2075](https://www.acmicpc.net/problem/2075)                                           | Silver 2 | 2023-08-31 | [소스코드](./BOJ/Q2075.java)             |
+| [BOJ - 2075](https://www.acmicpc.net/problem/2075)                                             | Silver 2 | 2023-08-31 | [소스코드](./BOJ/Q2075.java)             |
+| [BOJ - 17615](https://www.acmicpc.net/problem/17615)                                               | Silver 1 | 2023-09-05 | [소스코드](./BOJ/Q17615.java)            |
 
 <br/>
 
