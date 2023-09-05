@@ -190,6 +190,7 @@
 | [Programmers - 자물쇠와 열쇠](https://school.programmers.co.kr/learn/courses/30/lessons/60059)     | Level 3  | 2023-08-20 | [소스코드](./Programmers/자물쇠와열쇠.java)    |
 | [BOJ - 1138](https://www.acmicpc.net/problem/1138)                                           | Silver 2 | 2023-09-01 | [소스코드](./BOJ/Q1138.java)             |
 | [BOJ - 14940](https://www.acmicpc.net/problem/14940)                                         | Silver 1 | 2023-09-01 | [소스코드](./BOJ/Q14940.java)            |
+| [BOJ - 2531](https://www.acmicpc.net/problem/2531)                                         | Silver 1 | 2023-09-05 | [소스코드](./BOJ/Q2531.java)            |
 
 <br/>
 
