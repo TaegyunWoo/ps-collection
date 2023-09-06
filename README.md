@@ -191,6 +191,7 @@
 | [BOJ - 1138](https://www.acmicpc.net/problem/1138)                                           | Silver 2 | 2023-09-01 | [소스코드](./BOJ/Q1138.java)             |
 | [BOJ - 14940](https://www.acmicpc.net/problem/14940)                                         | Silver 1 | 2023-09-01 | [소스코드](./BOJ/Q14940.java)            |
 | [BOJ - 2531](https://www.acmicpc.net/problem/2531)                                         | Silver 1 | 2023-09-05 | [소스코드](./BOJ/Q2531.java)            |
+| [BOJ - 1522](https://www.acmicpc.net/problem/1522)                                         | Silver 1 | 2023-09-05 | [소스코드](./BOJ/Q1522.java)            |
 
 <br/>
 
