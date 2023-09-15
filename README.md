@@ -51,22 +51,23 @@
 
 ### 스택,큐,덱,힙
 
-| 문제                                                                                        | 난이도     | 풀이날짜       | 소스코드                                |
-|-------------------------------------------------------------------------------------------|---------|------------|-------------------------------------|
-| [BOJ - 1918](https://www.acmicpc.net/problem/1918)                                        | Gold 3  | 2022-04-01 | [소스코드](./BOJ/Q1918.java)            |
-| [Programmers - 기능개발](https://school.programmers.co.kr/learn/courses/30/lessons/42586)     | Level 2 | 2022-12-21 | [소스코드](./Programmers/기능개발.java)     |
-| [Programmers - 같은숫자는싫어](https://school.programmers.co.kr/learn/courses/30/lessons/12906)  | Level 1 | 2022-12-21 | [소스코드](./Programmers/같은숫자는싫어.java)  |
-| [Programmers - 올바른괄호](https://school.programmers.co.kr/learn/courses/30/lessons/12909)    | Level 2 | 2022-12-22 | [소스코드](./Programmers/올바른괄호.java)    |
-| [Programmers - 프린터](https://school.programmers.co.kr/learn/courses/30/lessons/42587)      | Level 2 | 2022-12-22 | [소스코드](./Programmers/프린터.java)      |
+| 문제                                                                                       | 난이도     | 풀이날짜       | 소스코드                                |
+|------------------------------------------------------------------------------------------|---------|------------|-------------------------------------|
+| [BOJ - 1918](https://www.acmicpc.net/problem/1918)                                       | Gold 3  | 2022-04-01 | [소스코드](./BOJ/Q1918.java)            |
+| [Programmers - 기능개발](https://school.programmers.co.kr/learn/courses/30/lessons/42586)    | Level 2 | 2022-12-21 | [소스코드](./Programmers/기능개발.java)     |
+| [Programmers - 같은숫자는싫어](https://school.programmers.co.kr/learn/courses/30/lessons/12906) | Level 1 | 2022-12-21 | [소스코드](./Programmers/같은숫자는싫어.java)  |
+| [Programmers - 올바른괄호](https://school.programmers.co.kr/learn/courses/30/lessons/12909)   | Level 2 | 2022-12-22 | [소스코드](./Programmers/올바른괄호.java)    |
+| [Programmers - 프린터](https://school.programmers.co.kr/learn/courses/30/lessons/42587)     | Level 2 | 2022-12-22 | [소스코드](./Programmers/프린터.java)      |
 | [Programmers - 다리를지나는트럭](https://school.programmers.co.kr/learn/courses/30/lessons/42583) | Level 2 | 2022-12-22 | [소스코드](./Programmers/다리를지나는트럭.java) |
-| [Programmers - 주식가격](https://school.programmers.co.kr/learn/courses/30/lessons/42584)     | Level 2 | 2022-12-23 | [소스코드](./Programmers/주식가격.java)     |
-| [Programmers - 더맵게](https://school.programmers.co.kr/learn/courses/30/lessons/42626)      | Level 2 | 2022-12-23 | [소스코드](./Programmers/더맵게.java)      |
-| [Programmers - 디스크컨트롤러](https://school.programmers.co.kr/learn/courses/30/lessons/42627)  | Level 3 | 2022-12-24 | [소스코드](./Programmers/디스크컨트롤러.java)  |
-| [Programmers - 이중우선순위큐](https://school.programmers.co.kr/learn/courses/30/lessons/42628)  | Level 3 | 2022-12-24 | [소스코드](./Programmers/이중우선순위큐.java)  |
-| [Programmers - 호텔대실](https://school.programmers.co.kr/learn/courses/30/lessons/155651)    | Level 2 | 2023-02-28 | [소스코드](./Programmers/호텔대실.java)     |
-| [Programmers - 괄호 회전하기](https://school.programmers.co.kr/learn/courses/30/lessons/76502)  | Level 2 | 2023-04-11 | [소스코드](./Programmers/괄호회전하기.java)   |
-| [Programmers - 택배상자](https://school.programmers.co.kr/learn/courses/30/lessons/131704)    | Level 2 | 2023-06-04 | [소스코드](./Programmers/택배상자.java)     |
+| [Programmers - 주식가격](https://school.programmers.co.kr/learn/courses/30/lessons/42584)    | Level 2 | 2022-12-23 | [소스코드](./Programmers/주식가격.java)     |
+| [Programmers - 더맵게](https://school.programmers.co.kr/learn/courses/30/lessons/42626)     | Level 2 | 2022-12-23 | [소스코드](./Programmers/더맵게.java)      |
+| [Programmers - 디스크컨트롤러](https://school.programmers.co.kr/learn/courses/30/lessons/42627) | Level 3 | 2022-12-24 | [소스코드](./Programmers/디스크컨트롤러.java)  |
+| [Programmers - 이중우선순위큐](https://school.programmers.co.kr/learn/courses/30/lessons/42628) | Level 3 | 2022-12-24 | [소스코드](./Programmers/이중우선순위큐.java)  |
+| [Programmers - 호텔대실](https://school.programmers.co.kr/learn/courses/30/lessons/155651)   | Level 2 | 2023-02-28 | [소스코드](./Programmers/호텔대실.java)     |
+| [Programmers - 괄호 회전하기](https://school.programmers.co.kr/learn/courses/30/lessons/76502) | Level 2 | 2023-04-11 | [소스코드](./Programmers/괄호회전하기.java)   |
+| [Programmers - 택배상자](https://school.programmers.co.kr/learn/courses/30/lessons/131704)   | Level 2 | 2023-06-04 | [소스코드](./Programmers/택배상자.java)     |
 | [Programmers - 예상 대진표](https://school.programmers.co.kr/learn/courses/30/lessons/12985)  | Level 2 | 2023-08-21 | [소스코드](./Programmers/예상대진표.java)    |
+| [BOJ - 2493](https://www.acmicpc.net/problem/2493)                                       | Gold 4  | 2023-09-15 | [소스코드](./BOJ/Q2493.java)            |
 
 <br/>
 
