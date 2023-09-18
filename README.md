@@ -225,6 +225,7 @@
 | [BOJ - 19637](https://www.acmicpc.net/problem/19637)                                      | Silver 3 | 2022-03-29 | [소스코드](./BOJ/Q19637.java)          |
 | [Programmers - 징검다리 건너기](https://school.programmers.co.kr/learn/courses/30/lessons/64062) | Level 3  | 2023-07-30 | [소스코드](./Programmers/징검다리건너기.java) |
 | [BOJ - 17266](https://www.acmicpc.net/problem/17266)                                      | Silver 4 | 2023-08-31 | [소스코드](./BOJ/Q17266.java)          |
+| [BOJ - 2467](https://www.acmicpc.net/problem/2467)                                           | Gold 5   | 2023-09-18 | [소스코드](./BOJ/Q2467.java)           |
 
 <br/>
 
