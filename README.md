@@ -197,8 +197,9 @@
 | [BOJ - 2531](https://www.acmicpc.net/problem/2531)                                           | Silver 1 | 2023-09-05 | [소스코드](./BOJ/Q2531.java)             |
 | [BOJ - 1522](https://www.acmicpc.net/problem/1522)                                           | Silver 1 | 2023-09-05 | [소스코드](./BOJ/Q1522.java)             |
 | [BOJ - 12919](https://www.acmicpc.net/problem/12919)                                         | Gold 5   | 2023-09-07 | [소스코드](./BOJ/Q12919.java)            |
-| [BOJ - 16234](https://www.acmicpc.net/problem/16234)                                         | Gold 4   | 2023-09-14 | [소스코드](./BOJ/Q16234.java)                 |
-| [BOJ - 5972](https://www.acmicpc.net/problem/5972)                                         | Gold 5   | 2023-09-17 | [소스코드](./BOJ/Q5972.java)                 |
+| [BOJ - 16234](https://www.acmicpc.net/problem/16234)                                         | Gold 4   | 2023-09-14 | [소스코드](./BOJ/Q16234.java)            |
+| [BOJ - 5972](https://www.acmicpc.net/problem/5972)                                           | Gold 5   | 2023-09-17 | [소스코드](./BOJ/Q5972.java)             |
+| [BOJ - 2668](https://www.acmicpc.net/problem/2668)                                           | Gold 5   | 2023-09-30 | [소스코드](./BOJ/Q2668.java)             |
 
 <br/>
 
