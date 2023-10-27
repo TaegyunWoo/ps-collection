@@ -70,6 +70,7 @@
 | [Programmers - 예상 대진표](https://school.programmers.co.kr/learn/courses/30/lessons/12985)   | Level 2 | 2023-08-21 | [소스코드](./Programmers/예상대진표.java)    |
 | [BOJ - 2493](https://www.acmicpc.net/problem/2493)                                        | Gold 4  | 2023-09-15 | [소스코드](./BOJ/Q2493.java)            |
 | [BOJ - 1863](https://www.acmicpc.net/problem/1863)                                        | Gold 4  | 2023-10-01 | [소스코드](./BOJ/Q1863.java)            |
+| [BOJ - 9935](https://www.acmicpc.net/problem/9935)                                        | Gold 4  | 2023-10-27 | [소스코드](./BOJ/Q9935.java)            |
 
 <br/>
 
