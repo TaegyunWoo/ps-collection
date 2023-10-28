@@ -219,6 +219,7 @@
 | [BOJ - 20922](https://www.acmicpc.net/problem/20922)                                  | Silver 1 | 2022-09-03 | [소스코드](./BOJ/Q20922.java)            |
 | [BOJ - 20437](https://www.acmicpc.net/problem/20437)                                  | Gold 5   | 2022-09-12 | [소스코드](./BOJ/Q20437.java)            |
 | [BOJ - 1253](https://www.acmicpc.net/problem/1253)                                      | Gold 4   | 2022-09-17 | [소스코드](./BOJ/Q1253.java)            |
+| [BOJ - 13144](https://www.acmicpc.net/problem/13144)                                      | Gold 4   | 2022-10-28 | [소스코드](./BOJ/Q13144.java)            |
 
 <br/>
 
