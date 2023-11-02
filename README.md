@@ -207,6 +207,7 @@
 | [BOJ - 4485](https://www.acmicpc.net/problem/4485)                                              | Gold 4   | 2023-10-15 | [소스코드](./BOJ/Q4485.java)             |
 | [BOJ - 4179](https://www.acmicpc.net/problem/4179)                                              | Gold 4   | 2023-10-20 | [소스코드](./BOJ/Q4179.java)             |
 | [BOJ - 1027](https://www.acmicpc.net/problem/1027)                                              | Gold 4   | 2023-10-29 | [소스코드](./BOJ/Q1027.java)             |
+| [BOJ - 14658](https://www.acmicpc.net/problem/14658)                                              | Gold 3   | 2023-11-02 | [소스코드](./BOJ/Q14658.java)             |
 
 <br/>
 
