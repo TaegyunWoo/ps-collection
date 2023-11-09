@@ -311,6 +311,7 @@
 |----|----------|------------|----|
 |[BOJ - 1629](https://www.acmicpc.net/problem/1629)| Gold 5   | 2022-03-14 |[소스코드](./BOJ/Q1629.java)|
 |[BOJ - 15989](https://www.acmicpc.net/problem/15989)| Silver 1 | 2022-09-04 |[소스코드](./BOJ/Q15989.java)|
+|[BOJ - 9527](https://www.acmicpc.net/problem/9527)| Gold 2   | 2022-11-09 |[소스코드](./BOJ/Q9527.java)|
 
 <br/>
 
