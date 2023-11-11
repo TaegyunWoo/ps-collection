@@ -285,23 +285,24 @@
 
 ### DP
 
-| 문제                                                                                          | 난이도      | 풀이날짜       | 소스코드                      |
-|---------------------------------------------------------------------------------------------|----------|------------|---------------------------|
-| [BOJ - 1149](https://www.acmicpc.net/problem/1149)                                          | Silver 1 | 2022-03-13 | [소스코드](./BOJ/Q1149.java)  |
-| [BOJ - 12865](https://www.acmicpc.net/problem/12865)                                        | Gold 5   | 2022-03-18 | [소스코드](./BOJ/Q12865.java) |
-| [BOJ - 10844](https://www.acmicpc.net/problem/10844)                                        | Silver 1 | 2022-12-10 | [소스코드](./BOJ/Q10844.java) |
-| [BOJ - 2294](https://www.acmicpc.net/problem/2294)                                          | Gold 5   | 2022-12-10 | [소스코드](./BOJ/Q2294.java) |
-| [BOJ - 1520](https://www.acmicpc.net/problem/1520)                                          | Gold 3   | 2022-12-12 | [소스코드](./BOJ/Q1520.java) |
-| [Programmers - N으로 표현](https://school.programmers.co.kr/learn/courses/30/lessons/42895)     | Level 3  | 2022-12-27 | [소스코드](./Programmers/N으로표현.java)    |
-| [BOJ - 27210](https://www.acmicpc.net/problem/27210)                                        | Gold 4   | 2023-01-15 | [소스코드](./BOJ/Q27210.java) |
-| [Programmers - 코딩 테스트 공부](https://school.programmers.co.kr/learn/courses/30/lessons/118668) | Level 3  | 2023-01-30 | [소스코드](./Programmers/코딩테스트공부.java)    |
-| [BOJ - 2616](https://www.acmicpc.net/problem/2616)                                          | Gold 3   | 2023-03-07 | [소스코드](./BOJ/Q2616.java) |
-| [Programmers - 숫자 타자 대회](https://school.programmers.co.kr/learn/courses/30/lessons/136797)  | Level 3  | 2023-04-28 | [소스코드](./Programmers/숫자타자대회.java)    |
-| [Programmers - 숫자 변환하기](https://school.programmers.co.kr/learn/courses/30/lessons/154538)   | Level 2  | 2023-05-05 | [소스코드](./Programmers/숫자변환하기.java)    |
-| [Programmers - 카운트 다운](https://school.programmers.co.kr/learn/courses/30/lessons/131129)    | Level 3  | 2023-05-25 | [소스코드](./Programmers/카운트다운.java)    |
-| [Programmers - 에어컨](https://school.programmers.co.kr/learn/courses/30/lessons/214289)       | Level 3  | 2023-07-27 | [소스코드](./Programmers/에어컨.java)    |
-| [BOJ - 2631](https://www.acmicpc.net/problem/2631)                                          | Gold 4   | 2023-11-01 | [소스코드](./BOJ/Q2631.java) |
-| [BOJ - 1943](https://www.acmicpc.net/problem/1943)                                             | Gold 3   | 2023-11-07 | [소스코드](./BOJ/Q1943.java) |
+| 문제                                                                                          | 난이도      | 풀이날짜       | 소스코드                               |
+|---------------------------------------------------------------------------------------------|----------|------------|------------------------------------|
+| [BOJ - 1149](https://www.acmicpc.net/problem/1149)                                          | Silver 1 | 2022-03-13 | [소스코드](./BOJ/Q1149.java)           |
+| [BOJ - 12865](https://www.acmicpc.net/problem/12865)                                        | Gold 5   | 2022-03-18 | [소스코드](./BOJ/Q12865.java)          |
+| [BOJ - 10844](https://www.acmicpc.net/problem/10844)                                        | Silver 1 | 2022-12-10 | [소스코드](./BOJ/Q10844.java)          |
+| [BOJ - 2294](https://www.acmicpc.net/problem/2294)                                          | Gold 5   | 2022-12-10 | [소스코드](./BOJ/Q2294.java)           |
+| [BOJ - 1520](https://www.acmicpc.net/problem/1520)                                          | Gold 3   | 2022-12-12 | [소스코드](./BOJ/Q1520.java)           |
+| [Programmers - N으로 표현](https://school.programmers.co.kr/learn/courses/30/lessons/42895)     | Level 3  | 2022-12-27 | [소스코드](./Programmers/N으로표현.java)   |
+| [BOJ - 27210](https://www.acmicpc.net/problem/27210)                                        | Gold 4   | 2023-01-15 | [소스코드](./BOJ/Q27210.java)          |
+| [Programmers - 코딩 테스트 공부](https://school.programmers.co.kr/learn/courses/30/lessons/118668) | Level 3  | 2023-01-30 | [소스코드](./Programmers/코딩테스트공부.java) |
+| [BOJ - 2616](https://www.acmicpc.net/problem/2616)                                          | Gold 3   | 2023-03-07 | [소스코드](./BOJ/Q2616.java)           |
+| [Programmers - 숫자 타자 대회](https://school.programmers.co.kr/learn/courses/30/lessons/136797)  | Level 3  | 2023-04-28 | [소스코드](./Programmers/숫자타자대회.java)  |
+| [Programmers - 숫자 변환하기](https://school.programmers.co.kr/learn/courses/30/lessons/154538)   | Level 2  | 2023-05-05 | [소스코드](./Programmers/숫자변환하기.java)  |
+| [Programmers - 카운트 다운](https://school.programmers.co.kr/learn/courses/30/lessons/131129)    | Level 3  | 2023-05-25 | [소스코드](./Programmers/카운트다운.java)   |
+| [Programmers - 에어컨](https://school.programmers.co.kr/learn/courses/30/lessons/214289)       | Level 3  | 2023-07-27 | [소스코드](./Programmers/에어컨.java)     |
+| [BOJ - 2631](https://www.acmicpc.net/problem/2631)                                          | Gold 4   | 2023-11-01 | [소스코드](./BOJ/Q2631.java)           |
+| [BOJ - 1943](https://www.acmicpc.net/problem/1943)                                          | Gold 3   | 2023-11-07 | [소스코드](./BOJ/Q1943.java)           |
+| [BOJ - 3687](https://www.acmicpc.net/problem/3687)                                          | Gold 2   | 2023-11-11 | [소스코드](./BOJ/Q3687.java)           |
 
 <br/>
 
