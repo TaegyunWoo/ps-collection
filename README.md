@@ -306,6 +306,7 @@
 | [BOJ - 1943](https://www.acmicpc.net/problem/1943)                                          | Gold 3   | 2023-11-07 | [소스코드](./BOJ/Q1943.java)           |
 | [BOJ - 3687](https://www.acmicpc.net/problem/3687)                                          | Gold 2   | 2023-11-11 | [소스코드](./BOJ/Q3687.java)           |
 | [BOJ - 2169](https://www.acmicpc.net/problem/2169)                                          | Gold 2   | 2023-11-21 | [소스코드](./BOJ/Q2169.java)           |
+| [BOJ - 2096](https://www.acmicpc.net/problem/2096)                                          | Gold 5   | 2023-11-30 | [소스코드](./BOJ/Q2096.java)           |
 
 <br/>
 
