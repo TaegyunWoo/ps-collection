@@ -147,8 +147,9 @@
 | [Programmers - 문자열 압축](https://school.programmers.co.kr/learn/courses/30/lessons/60057)          | Level 2  | 2023-08-06 | [소스코드](./Programmers/문자열압축.java)        |
 | [Programmers - 블록 이동하기](https://school.programmers.co.kr/learn/courses/30/lessons/60063)         | Level 3  | 2023-08-08 | [소스코드](./Programmers/블록이동하기.java)       |
 | [Programmers - 방문 길이](https://school.programmers.co.kr/learn/courses/30/lessons/49994)           | Level 2  | 2023-08-08 | [소스코드](./Programmers/방문길이.java)         |
-| [BOJ - 20055](https://www.acmicpc.net/problem/20055)                                               | Gold 5   | 2023-09-08 | [소스코드](./BOJ/Q20055.java)                |
+| [BOJ - 20055](https://www.acmicpc.net/problem/20055)                                             | Gold 5   | 2023-09-08 | [소스코드](./BOJ/Q20055.java)               |
 | [BOJ - 7682](https://www.acmicpc.net/problem/7682)                                               | Gold 5   | 2023-09-29 | [소스코드](./BOJ/Q7682.java)                |
+| [BOJ - 2448](https://www.acmicpc.net/problem/2448)                                               | Gold 4   | 2023-12-03 | [소스코드](./BOJ/Q2448.java)                |
 
 <br/>
 
