@@ -212,6 +212,8 @@
 | [BOJ - 1027](https://www.acmicpc.net/problem/1027)                                           | Gold 4   | 2023-10-29 | [소스코드](./BOJ/Q1027.java)             |
 | [BOJ - 14658](https://www.acmicpc.net/problem/14658)                                         | Gold 3   | 2023-11-02 | [소스코드](./BOJ/Q14658.java)            |
 | [BOJ - 2638](https://www.acmicpc.net/problem/2638)                                             | Gold 3   | 2023-12-09 | [소스코드](./BOJ/Q2638.java)             |
+| [BOJ - 2589](https://www.acmicpc.net/problem/2589)                                             | Gold 5   | 2025-09-13 | [소스코드](./BOJ/Q2589.java)             |
+
 
 <br/>
 
