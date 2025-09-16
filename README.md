@@ -48,6 +48,7 @@
 | [BOJ - 17615](https://www.acmicpc.net/problem/17615)                                           | Silver 1 | 2023-09-05 | [소스코드](./BOJ/Q17615.java)            |
 | [BOJ - 17615](https://www.acmicpc.net/problem/2138)                                            | Gold 5   | 2023-09-28 | [소스코드](./BOJ/Q2138.java)             |
 | [BOJ - 24337](https://www.acmicpc.net/problem/24337)                                            | Gold 3   | 2023-09-28 | [소스코드](./BOJ/Q24337.java)             |
+| [BOJ - 18310](https://www.acmicpc.net/problem/18310)                                            | Silver 3 | 2025-09-16 | [소스코드](./BOJ/Q18310.java)             |
 
 <br/>
 
