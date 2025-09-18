@@ -73,7 +73,8 @@
 | [BOJ - 2493](https://www.acmicpc.net/problem/2493)                                        | Gold 4  | 2023-09-15 | [소스코드](./BOJ/Q2493.java)            |
 | [BOJ - 1863](https://www.acmicpc.net/problem/1863)                                        | Gold 4  | 2023-10-01 | [소스코드](./BOJ/Q1863.java)            |
 | [BOJ - 9935](https://www.acmicpc.net/problem/9935)                                        | Gold 4  | 2023-10-27 | [소스코드](./BOJ/Q9935.java)            |
-| [BOJ - 22866](https://www.acmicpc.net/problem/22866)                                        | Gold 3  | 2023-11-05 | [소스코드](./BOJ/Q22866.java)            |
+| [BOJ - 22866](https://www.acmicpc.net/problem/22866)                                      | Gold 3  | 2023-11-05 | [소스코드](./BOJ/Q22866.java)           |
+| [Programmers - 서버 증설 횟수](https://school.programmers.co.kr/learn/courses/30/lessons/389479) | Level 2 | 2025-09-18 | [소스코드](./Programmers/서버증설횟수.java)   |
 
 <br/>
 
