@@ -235,18 +235,19 @@
 
 ### 이진탐색
 
-| 문제                                                                                        | 난이도      | 풀이날짜       | 소스코드                               |
-|-------------------------------------------------------------------------------------------|----------|------------|------------------------------------|
-| [BOJ - 2110](https://www.acmicpc.net/problem/2110)                                        | Gold 5   | 2022-03-14 | [소스코드](./BOJ/Q2110.java)           |
-| [Programmers - 입국심사](https://school.programmers.co.kr/learn/courses/30/lessons/43238)     | Level 3  | 2022-12-29 | [소스코드](./Programmers/입국심사.java)    |
-| [Programmers - 징검다리](https://school.programmers.co.kr/learn/courses/30/lessons/43236)     | Level 4  | 2022-12-29 | [소스코드](./Programmers/징검다리.java)    |
-| [Programmers - 셔틀버스](https://school.programmers.co.kr/learn/courses/30/lessons/17678)     | Level 3  | 2023-01-08 | [소스코드](./Programmers/셔틀버스.java)    |
-| [Programmers - 순위 검색](https://school.programmers.co.kr/learn/courses/30/lessons/72412)    | Level 2  | 2023-03-09 | [소스코드](./Programmers/순위검색.java)    |
-| [BOJ - 2512](https://www.acmicpc.net/problem/2512)                                        | Silver 3 | 2022-03-22 | [소스코드](./BOJ/Q2512.java)           |
-| [BOJ - 19637](https://www.acmicpc.net/problem/19637)                                      | Silver 3 | 2022-03-29 | [소스코드](./BOJ/Q19637.java)          |
-| [Programmers - 징검다리 건너기](https://school.programmers.co.kr/learn/courses/30/lessons/64062) | Level 3  | 2023-07-30 | [소스코드](./Programmers/징검다리건너기.java) |
-| [BOJ - 17266](https://www.acmicpc.net/problem/17266)                                      | Silver 4 | 2023-08-31 | [소스코드](./BOJ/Q17266.java)          |
-| [BOJ - 2467](https://www.acmicpc.net/problem/2467)                                           | Gold 5   | 2023-09-18 | [소스코드](./BOJ/Q2467.java)           |
+| 문제                                                                                         | 난이도      | 풀이날짜       | 소스코드                               |
+|--------------------------------------------------------------------------------------------|----------|------------|------------------------------------|
+| [BOJ - 2110](https://www.acmicpc.net/problem/2110)                                         | Gold 5   | 2022-03-14 | [소스코드](./BOJ/Q2110.java)           |
+| [Programmers - 입국심사](https://school.programmers.co.kr/learn/courses/30/lessons/43238)      | Level 3  | 2022-12-29 | [소스코드](./Programmers/입국심사.java)    |
+| [Programmers - 징검다리](https://school.programmers.co.kr/learn/courses/30/lessons/43236)      | Level 4  | 2022-12-29 | [소스코드](./Programmers/징검다리.java)    |
+| [Programmers - 셔틀버스](https://school.programmers.co.kr/learn/courses/30/lessons/17678)      | Level 3  | 2023-01-08 | [소스코드](./Programmers/셔틀버스.java)    |
+| [Programmers - 순위 검색](https://school.programmers.co.kr/learn/courses/30/lessons/340212)     | Level 2  | 2025-10-16 | [소스코드](./Programmers/퍼즐게임챌린지.java) |
+| [BOJ - 2512](https://www.acmicpc.net/problem/2512)                                         | Silver 3 | 2022-03-22 | [소스코드](./BOJ/Q2512.java)           |
+| [BOJ - 19637](https://www.acmicpc.net/problem/19637)                                       | Silver 3 | 2022-03-29 | [소스코드](./BOJ/Q19637.java)          |
+| [Programmers - 징검다리 건너기](https://school.programmers.co.kr/learn/courses/30/lessons/64062)  | Level 3  | 2023-07-30 | [소스코드](./Programmers/징검다리건너기.java) |
+| [BOJ - 17266](https://www.acmicpc.net/problem/17266)                                       | Silver 4 | 2023-08-31 | [소스코드](./BOJ/Q17266.java)          |
+| [BOJ - 2467](https://www.acmicpc.net/problem/2467)                                         | Gold 5   | 2023-09-18 | [소스코드](./BOJ/Q2467.java)           |
+| [Programmers - 퍼즐 게임 챌린지](https://school.programmers.co.kr/learn/courses/30/lessons/72412) | Level 2  | 2023-03-09 | [소스코드](./Programmers/순위검색.java)    |
 
 <br/>
 
